@@ -1,0 +1,1801 @@
+﻿Fecha,Producto,Cliente,Demanda,Planta,Precio Unitario
+2023-11-01,Baterías de litio recargables,Almacenes del Pacífico,88,Planta Cali,264520
+2023-11-01,Baterías de litio recargables,Comercial Caribe S.A.S.,115,Planta Medellín,261090
+2023-11-01,Baterías de litio recargables,Distribuciones Antioqueñas,85,Planta Medellín,251520
+2023-11-01,Baterías de litio recargables,Grupo Andino Retail,135,Planta Bogotá,256690
+2023-11-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,139,Planta Cali,260250
+2023-11-01,Bolsas biodegradables,Almacenes del Pacífico,341,Planta Medellín,59170
+2023-11-01,Bolsas biodegradables,Comercial Caribe S.A.S.,216,Planta Bucaramanga,58780
+2023-11-01,Bolsas biodegradables,Distribuciones Antioqueñas,339,Planta Medellín,57250
+2023-11-01,Bolsas biodegradables,Grupo Andino Retail,457,Planta Bogotá,57480
+2023-11-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,330,Planta Medellín,58700
+2023-11-01,Bombillos incandescentes,Almacenes del Pacífico,364,Planta Cali,68420
+2023-11-01,Bombillos incandescentes,Comercial Caribe S.A.S.,495,Planta Medellín,67860
+2023-11-01,Bombillos incandescentes,Distribuciones Antioqueñas,600,Planta Medellín,65930
+2023-11-01,Bombillos incandescentes,Grupo Andino Retail,475,Planta Bogotá,66130
+2023-11-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,207,Planta Cali,67810
+2023-11-01,Chocolatería de regalo,Almacenes del Pacífico,403,Planta Cali,90460
+2023-11-01,Chocolatería de regalo,Comercial Caribe S.A.S.,398,Planta Bucaramanga,89770
+2023-11-01,Chocolatería de regalo,Distribuciones Antioqueñas,334,Planta Medellín,87660
+2023-11-01,Chocolatería de regalo,Grupo Andino Retail,329,Planta Bogotá,87170
+2023-11-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,160,Planta Cali,90200
+2023-11-01,Cuadernos escolares,Almacenes del Pacífico,263,Planta Cali,68510
+2023-11-01,Cuadernos escolares,Comercial Caribe S.A.S.,317,Planta Medellín,67460
+2023-11-01,Cuadernos escolares,Distribuciones Antioqueñas,167,Planta Medellín,65760
+2023-11-01,Cuadernos escolares,Grupo Andino Retail,486,Planta Bogotá,65730
+2023-11-01,Cuadernos escolares,Mayoristas del Eje Cafetero,144,Planta Cali,67310
+2023-11-01,Envases plásticos tradicionales,Almacenes del Pacífico,855,Planta Cali,50090
+2023-11-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,611,Planta Bucaramanga,49750
+2023-11-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,595,Planta Medellín,48200
+2023-11-01,Envases plásticos tradicionales,Grupo Andino Retail,1339,Planta Bogotá,48530
+2023-11-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,203,Planta Cali,49320
+2023-11-01,Impermeables industriales,Almacenes del Pacífico,319,Planta Medellín,134500
+2023-11-01,Impermeables industriales,Comercial Caribe S.A.S.,343,Planta Bucaramanga,132980
+2023-11-01,Impermeables industriales,Distribuciones Antioqueñas,433,Planta Medellín,129710
+2023-11-01,Impermeables industriales,Grupo Andino Retail,463,Planta Bogotá,129590
+2023-11-01,Impermeables industriales,Mayoristas del Eje Cafetero,194,Planta Medellín,133970
+2023-11-01,Juguetes didácticos,Almacenes del Pacífico,264,Planta Medellín,129300
+2023-11-01,Juguetes didácticos,Comercial Caribe S.A.S.,370,Planta Bucaramanga,128330
+2023-11-01,Juguetes didácticos,Distribuciones Antioqueñas,510,Planta Medellín,123400
+2023-11-01,Juguetes didácticos,Grupo Andino Retail,756,Planta Bogotá,126250
+2023-11-01,Juguetes didácticos,Mayoristas del Eje Cafetero,365,Planta Medellín,125860
+2023-11-01,Paneles solares portátiles,Almacenes del Pacífico,69,Planta Cali,307630
+2023-11-01,Paneles solares portátiles,Comercial Caribe S.A.S.,80,Planta Bucaramanga,302850
+2023-11-01,Paneles solares portátiles,Distribuciones Antioqueñas,105,Planta Bogotá,297020
+2023-11-01,Paneles solares portátiles,Grupo Andino Retail,122,Planta Bogotá,300340
+2023-11-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,61,Planta Cali,304690
+2023-11-01,Ventiladores de torre,Almacenes del Pacífico,127,Planta Cali,191520
+2023-11-01,Ventiladores de torre,Comercial Caribe S.A.S.,168,Planta Bucaramanga,189000
+2023-11-01,Ventiladores de torre,Distribuciones Antioqueñas,123,Planta Bogotá,183220
+2023-11-01,Ventiladores de torre,Grupo Andino Retail,122,Planta Bogotá,185910
+2023-11-01,Ventiladores de torre,Mayoristas del Eje Cafetero,73,Planta Cali,189480
+2023-12-01,Baterías de litio recargables,Almacenes del Pacífico,97,Planta Cali,267280
+2023-12-01,Baterías de litio recargables,Comercial Caribe S.A.S.,104,Planta Medellín,265640
+2023-12-01,Baterías de litio recargables,Distribuciones Antioqueñas,92,Planta Medellín,254750
+2023-12-01,Baterías de litio recargables,Grupo Andino Retail,176,Planta Bogotá,257640
+2023-12-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,134,Planta Cali,265900
+2023-12-01,Bolsas biodegradables,Almacenes del Pacífico,362,Planta Medellín,59220
+2023-12-01,Bolsas biodegradables,Comercial Caribe S.A.S.,204,Planta Bucaramanga,58860
+2023-12-01,Bolsas biodegradables,Distribuciones Antioqueñas,322,Planta Medellín,57220
+2023-12-01,Bolsas biodegradables,Grupo Andino Retail,501,Planta Bogotá,57750
+2023-12-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,359,Planta Medellín,58710
+2023-12-01,Bombillos incandescentes,Almacenes del Pacífico,379,Planta Cali,68270
+2023-12-01,Bombillos incandescentes,Comercial Caribe S.A.S.,560,Planta Medellín,68140
+2023-12-01,Bombillos incandescentes,Distribuciones Antioqueñas,587,Planta Medellín,65920
+2023-12-01,Bombillos incandescentes,Grupo Andino Retail,428,Planta Bogotá,66530
+2023-12-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,198,Planta Cali,68270
+2023-12-01,Chocolatería de regalo,Almacenes del Pacífico,866,Planta Cali,91180
+2023-12-01,Chocolatería de regalo,Comercial Caribe S.A.S.,749,Planta Bucaramanga,91180
+2023-12-01,Chocolatería de regalo,Distribuciones Antioqueñas,655,Planta Medellín,87170
+2023-12-01,Chocolatería de regalo,Grupo Andino Retail,629,Planta Bogotá,88470
+2023-12-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,289,Planta Cali,90700
+2023-12-01,Cuadernos escolares,Almacenes del Pacífico,254,Planta Cali,68050
+2023-12-01,Cuadernos escolares,Comercial Caribe S.A.S.,354,Planta Medellín,67850
+2023-12-01,Cuadernos escolares,Distribuciones Antioqueñas,197,Planta Medellín,65770
+2023-12-01,Cuadernos escolares,Grupo Andino Retail,540,Planta Bogotá,66280
+2023-12-01,Cuadernos escolares,Mayoristas del Eje Cafetero,208,Planta Cali,66950
+2023-12-01,Envases plásticos tradicionales,Almacenes del Pacífico,991,Planta Cali,50300
+2023-12-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,624,Planta Bucaramanga,49650
+2023-12-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,590,Planta Medellín,48000
+2023-12-01,Envases plásticos tradicionales,Grupo Andino Retail,1345,Planta Bogotá,48690
+2023-12-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,195,Planta Cali,49700
+2023-12-01,Impermeables industriales,Almacenes del Pacífico,184,Planta Medellín,134760
+2023-12-01,Impermeables industriales,Comercial Caribe S.A.S.,182,Planta Bucaramanga,132820
+2023-12-01,Impermeables industriales,Distribuciones Antioqueñas,202,Planta Medellín,130160
+2023-12-01,Impermeables industriales,Grupo Andino Retail,244,Planta Bogotá,130450
+2023-12-01,Impermeables industriales,Mayoristas del Eje Cafetero,116,Planta Medellín,133600
+2023-12-01,Juguetes didácticos,Almacenes del Pacífico,350,Planta Medellín,128140
+2023-12-01,Juguetes didácticos,Comercial Caribe S.A.S.,421,Planta Bucaramanga,127210
+2023-12-01,Juguetes didácticos,Distribuciones Antioqueñas,647,Planta Medellín,124250
+2023-12-01,Juguetes didácticos,Grupo Andino Retail,860,Planta Bogotá,125550
+2023-12-01,Juguetes didácticos,Mayoristas del Eje Cafetero,500,Planta Medellín,128180
+2023-12-01,Paneles solares portátiles,Almacenes del Pacífico,61,Planta Cali,307360
+2023-12-01,Paneles solares portátiles,Comercial Caribe S.A.S.,86,Planta Bucaramanga,307280
+2023-12-01,Paneles solares portátiles,Distribuciones Antioqueñas,119,Planta Bogotá,294900
+2023-12-01,Paneles solares portátiles,Grupo Andino Retail,122,Planta Bogotá,302010
+2023-12-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,65,Planta Cali,306840
+2023-12-01,Ventiladores de torre,Almacenes del Pacífico,143,Planta Cali,191450
+2023-12-01,Ventiladores de torre,Comercial Caribe S.A.S.,157,Planta Bucaramanga,189530
+2023-12-01,Ventiladores de torre,Distribuciones Antioqueñas,118,Planta Bogotá,184670
+2023-12-01,Ventiladores de torre,Grupo Andino Retail,139,Planta Bogotá,187780
+2023-12-01,Ventiladores de torre,Mayoristas del Eje Cafetero,72,Planta Cali,191870
+2024-01-01,Baterías de litio recargables,Almacenes del Pacífico,91,Planta Cali,266710
+2024-01-01,Baterías de litio recargables,Comercial Caribe S.A.S.,109,Planta Medellín,263220
+2024-01-01,Baterías de litio recargables,Distribuciones Antioqueñas,90,Planta Medellín,256550
+2024-01-01,Baterías de litio recargables,Grupo Andino Retail,198,Planta Bogotá,259330
+2024-01-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,137,Planta Cali,262220
+2024-01-01,Bolsas biodegradables,Almacenes del Pacífico,339,Planta Medellín,59620
+2024-01-01,Bolsas biodegradables,Comercial Caribe S.A.S.,209,Planta Bucaramanga,59370
+2024-01-01,Bolsas biodegradables,Distribuciones Antioqueñas,323,Planta Medellín,57130
+2024-01-01,Bolsas biodegradables,Grupo Andino Retail,519,Planta Bogotá,58240
+2024-01-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,370,Planta Medellín,59750
+2024-01-01,Bombillos incandescentes,Almacenes del Pacífico,377,Planta Cali,68860
+2024-01-01,Bombillos incandescentes,Comercial Caribe S.A.S.,443,Planta Medellín,68060
+2024-01-01,Bombillos incandescentes,Distribuciones Antioqueñas,554,Planta Medellín,66020
+2024-01-01,Bombillos incandescentes,Grupo Andino Retail,461,Planta Bogotá,67090
+2024-01-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,177,Planta Cali,68100
+2024-01-01,Chocolatería de regalo,Almacenes del Pacífico,283,Planta Cali,91480
+2024-01-01,Chocolatería de regalo,Comercial Caribe S.A.S.,309,Planta Bucaramanga,91140
+2024-01-01,Chocolatería de regalo,Distribuciones Antioqueñas,246,Planta Medellín,87230
+2024-01-01,Chocolatería de regalo,Grupo Andino Retail,249,Planta Bogotá,88760
+2024-01-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,112,Planta Cali,90670
+2024-01-01,Cuadernos escolares,Almacenes del Pacífico,663,Planta Cali,68210
+2024-01-01,Cuadernos escolares,Comercial Caribe S.A.S.,985,Planta Medellín,67450
+2024-01-01,Cuadernos escolares,Distribuciones Antioqueñas,515,Planta Medellín,65320
+2024-01-01,Cuadernos escolares,Grupo Andino Retail,1536,Planta Bogotá,66390
+2024-01-01,Cuadernos escolares,Mayoristas del Eje Cafetero,540,Planta Cali,67630
+2024-01-01,Envases plásticos tradicionales,Almacenes del Pacífico,830,Planta Cali,50370
+2024-01-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,672,Planta Bucaramanga,49570
+2024-01-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,537,Planta Medellín,48480
+2024-01-01,Envases plásticos tradicionales,Grupo Andino Retail,1501,Planta Bogotá,48920
+2024-01-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,203,Planta Cali,49630
+2024-01-01,Impermeables industriales,Almacenes del Pacífico,112,Planta Medellín,133870
+2024-01-01,Impermeables industriales,Comercial Caribe S.A.S.,124,Planta Bucaramanga,133330
+2024-01-01,Impermeables industriales,Distribuciones Antioqueñas,151,Planta Medellín,129910
+2024-01-01,Impermeables industriales,Grupo Andino Retail,161,Planta Bogotá,131490
+2024-01-01,Impermeables industriales,Mayoristas del Eje Cafetero,63,Planta Medellín,133410
+2024-01-01,Juguetes didácticos,Almacenes del Pacífico,89,Planta Medellín,129430
+2024-01-01,Juguetes didácticos,Comercial Caribe S.A.S.,106,Planta Bucaramanga,128010
+2024-01-01,Juguetes didácticos,Distribuciones Antioqueñas,151,Planta Medellín,125640
+2024-01-01,Juguetes didácticos,Grupo Andino Retail,228,Planta Bogotá,125420
+2024-01-01,Juguetes didácticos,Mayoristas del Eje Cafetero,114,Planta Medellín,127680
+2024-01-01,Paneles solares portátiles,Almacenes del Pacífico,76,Planta Cali,310610
+2024-01-01,Paneles solares portátiles,Comercial Caribe S.A.S.,82,Planta Bucaramanga,307180
+2024-01-01,Paneles solares portátiles,Distribuciones Antioqueñas,133,Planta Bogotá,298660
+2024-01-01,Paneles solares portátiles,Grupo Andino Retail,138,Planta Bogotá,299050
+2024-01-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,63,Planta Cali,305290
+2024-01-01,Ventiladores de torre,Almacenes del Pacífico,235,Planta Cali,192830
+2024-01-01,Ventiladores de torre,Comercial Caribe S.A.S.,325,Planta Bucaramanga,190260
+2024-01-01,Ventiladores de torre,Distribuciones Antioqueñas,258,Planta Bogotá,185350
+2024-01-01,Ventiladores de torre,Grupo Andino Retail,231,Planta Bogotá,185840
+2024-01-01,Ventiladores de torre,Mayoristas del Eje Cafetero,133,Planta Cali,191720
+2024-02-01,Baterías de litio recargables,Almacenes del Pacífico,100,Planta Cali,267210
+2024-02-01,Baterías de litio recargables,Comercial Caribe S.A.S.,118,Planta Medellín,265540
+2024-02-01,Baterías de litio recargables,Distribuciones Antioqueñas,90,Planta Medellín,258710
+2024-02-01,Baterías de litio recargables,Grupo Andino Retail,194,Planta Bogotá,260690
+2024-02-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,160,Planta Cali,266570
+2024-02-01,Bolsas biodegradables,Almacenes del Pacífico,385,Planta Medellín,59750
+2024-02-01,Bolsas biodegradables,Comercial Caribe S.A.S.,199,Planta Bucaramanga,59470
+2024-02-01,Bolsas biodegradables,Distribuciones Antioqueñas,356,Planta Medellín,57780
+2024-02-01,Bolsas biodegradables,Grupo Andino Retail,541,Planta Bogotá,58730
+2024-02-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,355,Planta Medellín,59630
+2024-02-01,Bombillos incandescentes,Almacenes del Pacífico,323,Planta Cali,69040
+2024-02-01,Bombillos incandescentes,Comercial Caribe S.A.S.,496,Planta Medellín,68480
+2024-02-01,Bombillos incandescentes,Distribuciones Antioqueñas,496,Planta Medellín,66050
+2024-02-01,Bombillos incandescentes,Grupo Andino Retail,455,Planta Bogotá,67460
+2024-02-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,181,Planta Cali,67970
+2024-02-01,Chocolatería de regalo,Almacenes del Pacífico,584,Planta Cali,92180
+2024-02-01,Chocolatería de regalo,Comercial Caribe S.A.S.,529,Planta Bucaramanga,91370
+2024-02-01,Chocolatería de regalo,Distribuciones Antioqueñas,491,Planta Medellín,88300
+2024-02-01,Chocolatería de regalo,Grupo Andino Retail,534,Planta Bogotá,87970
+2024-02-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,206,Planta Cali,90590
+2024-02-01,Cuadernos escolares,Almacenes del Pacífico,664,Planta Cali,69100
+2024-02-01,Cuadernos escolares,Comercial Caribe S.A.S.,878,Planta Medellín,67680
+2024-02-01,Cuadernos escolares,Distribuciones Antioqueñas,449,Planta Medellín,65730
+2024-02-01,Cuadernos escolares,Grupo Andino Retail,1458,Planta Bogotá,66800
+2024-02-01,Cuadernos escolares,Mayoristas del Eje Cafetero,459,Planta Cali,67650
+2024-02-01,Envases plásticos tradicionales,Almacenes del Pacífico,964,Planta Cali,50230
+2024-02-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,571,Planta Bucaramanga,49950
+2024-02-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,552,Planta Medellín,48400
+2024-02-01,Envases plásticos tradicionales,Grupo Andino Retail,1171,Planta Bogotá,49110
+2024-02-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,192,Planta Cali,49690
+2024-02-01,Impermeables industriales,Almacenes del Pacífico,101,Planta Medellín,135870
+2024-02-01,Impermeables industriales,Comercial Caribe S.A.S.,107,Planta Bucaramanga,133830
+2024-02-01,Impermeables industriales,Distribuciones Antioqueñas,115,Planta Medellín,130890
+2024-02-01,Impermeables industriales,Grupo Andino Retail,150,Planta Bogotá,130860
+2024-02-01,Impermeables industriales,Mayoristas del Eje Cafetero,64,Planta Medellín,135420
+2024-02-01,Juguetes didácticos,Almacenes del Pacífico,109,Planta Medellín,129920
+2024-02-01,Juguetes didácticos,Comercial Caribe S.A.S.,140,Planta Bucaramanga,129370
+2024-02-01,Juguetes didácticos,Distribuciones Antioqueñas,171,Planta Medellín,124580
+2024-02-01,Juguetes didácticos,Grupo Andino Retail,256,Planta Bogotá,126440
+2024-02-01,Juguetes didácticos,Mayoristas del Eje Cafetero,147,Planta Medellín,129260
+2024-02-01,Paneles solares portátiles,Almacenes del Pacífico,70,Planta Cali,311500
+2024-02-01,Paneles solares portátiles,Comercial Caribe S.A.S.,82,Planta Bucaramanga,309210
+2024-02-01,Paneles solares portátiles,Distribuciones Antioqueñas,116,Planta Bogotá,301580
+2024-02-01,Paneles solares portátiles,Grupo Andino Retail,136,Planta Bogotá,300790
+2024-02-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,70,Planta Cali,309090
+2024-02-01,Ventiladores de torre,Almacenes del Pacífico,291,Planta Cali,192680
+2024-02-01,Ventiladores de torre,Comercial Caribe S.A.S.,417,Planta Bucaramanga,191180
+2024-02-01,Ventiladores de torre,Distribuciones Antioqueñas,311,Planta Bogotá,186880
+2024-02-01,Ventiladores de torre,Grupo Andino Retail,310,Planta Bogotá,186460
+2024-02-01,Ventiladores de torre,Mayoristas del Eje Cafetero,182,Planta Cali,190460
+2024-03-01,Baterías de litio recargables,Almacenes del Pacífico,95,Planta Cali,269510
+2024-03-01,Baterías de litio recargables,Comercial Caribe S.A.S.,113,Planta Medellín,266320
+2024-03-01,Baterías de litio recargables,Distribuciones Antioqueñas,84,Planta Medellín,258050
+2024-03-01,Baterías de litio recargables,Grupo Andino Retail,192,Planta Bogotá,261760
+2024-03-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,144,Planta Cali,266230
+2024-03-01,Bolsas biodegradables,Almacenes del Pacífico,385,Planta Medellín,60660
+2024-03-01,Bolsas biodegradables,Comercial Caribe S.A.S.,204,Planta Bucaramanga,60430
+2024-03-01,Bolsas biodegradables,Distribuciones Antioqueñas,370,Planta Medellín,58110
+2024-03-01,Bolsas biodegradables,Grupo Andino Retail,553,Planta Bogotá,58280
+2024-03-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,301,Planta Medellín,59730
+2024-03-01,Bombillos incandescentes,Almacenes del Pacífico,383,Planta Cali,69960
+2024-03-01,Bombillos incandescentes,Comercial Caribe S.A.S.,498,Planta Medellín,68370
+2024-03-01,Bombillos incandescentes,Distribuciones Antioqueñas,524,Planta Medellín,66710
+2024-03-01,Bombillos incandescentes,Grupo Andino Retail,445,Planta Bogotá,67280
+2024-03-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,177,Planta Cali,69150
+2024-03-01,Chocolatería de regalo,Almacenes del Pacífico,272,Planta Cali,91780
+2024-03-01,Chocolatería de regalo,Comercial Caribe S.A.S.,291,Planta Bucaramanga,91550
+2024-03-01,Chocolatería de regalo,Distribuciones Antioqueñas,238,Planta Medellín,89310
+2024-03-01,Chocolatería de regalo,Grupo Andino Retail,255,Planta Bogotá,90220
+2024-03-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,105,Planta Cali,91590
+2024-03-01,Cuadernos escolares,Almacenes del Pacífico,331,Planta Cali,68740
+2024-03-01,Cuadernos escolares,Comercial Caribe S.A.S.,480,Planta Medellín,68260
+2024-03-01,Cuadernos escolares,Distribuciones Antioqueñas,285,Planta Medellín,65960
+2024-03-01,Cuadernos escolares,Grupo Andino Retail,782,Planta Bogotá,66880
+2024-03-01,Cuadernos escolares,Mayoristas del Eje Cafetero,239,Planta Cali,68730
+2024-03-01,Envases plásticos tradicionales,Almacenes del Pacífico,910,Planta Cali,50670
+2024-03-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,641,Planta Bucaramanga,49860
+2024-03-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,470,Planta Medellín,48720
+2024-03-01,Envases plásticos tradicionales,Grupo Andino Retail,1435,Planta Bogotá,49140
+2024-03-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,213,Planta Cali,50210
+2024-03-01,Impermeables industriales,Almacenes del Pacífico,164,Planta Medellín,136580
+2024-03-01,Impermeables industriales,Comercial Caribe S.A.S.,198,Planta Bucaramanga,134340
+2024-03-01,Impermeables industriales,Distribuciones Antioqueñas,194,Planta Medellín,131510
+2024-03-01,Impermeables industriales,Grupo Andino Retail,260,Planta Bogotá,132290
+2024-03-01,Impermeables industriales,Mayoristas del Eje Cafetero,119,Planta Medellín,134070
+2024-03-01,Juguetes didácticos,Almacenes del Pacífico,83,Planta Medellín,131200
+2024-03-01,Juguetes didácticos,Comercial Caribe S.A.S.,119,Planta Bucaramanga,128640
+2024-03-01,Juguetes didácticos,Distribuciones Antioqueñas,146,Planta Medellín,125950
+2024-03-01,Juguetes didácticos,Grupo Andino Retail,219,Planta Bogotá,126430
+2024-03-01,Juguetes didácticos,Mayoristas del Eje Cafetero,137,Planta Medellín,129820
+2024-03-01,Paneles solares portátiles,Almacenes del Pacífico,84,Planta Cali,313710
+2024-03-01,Paneles solares portátiles,Comercial Caribe S.A.S.,83,Planta Bucaramanga,309770
+2024-03-01,Paneles solares portátiles,Distribuciones Antioqueñas,136,Planta Bogotá,300100
+2024-03-01,Paneles solares portátiles,Grupo Andino Retail,133,Planta Bogotá,303360
+2024-03-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,72,Planta Cali,308150
+2024-03-01,Ventiladores de torre,Almacenes del Pacífico,299,Planta Cali,196200
+2024-03-01,Ventiladores de torre,Comercial Caribe S.A.S.,419,Planta Bucaramanga,190030
+2024-03-01,Ventiladores de torre,Distribuciones Antioqueñas,314,Planta Bogotá,186630
+2024-03-01,Ventiladores de torre,Grupo Andino Retail,296,Planta Bogotá,187740
+2024-03-01,Ventiladores de torre,Mayoristas del Eje Cafetero,215,Planta Cali,193000
+2024-04-01,Baterías de litio recargables,Almacenes del Pacífico,107,Planta Cali,269650
+2024-04-01,Baterías de litio recargables,Comercial Caribe S.A.S.,133,Planta Medellín,266710
+2024-04-01,Baterías de litio recargables,Distribuciones Antioqueñas,100,Planta Medellín,258960
+2024-04-01,Baterías de litio recargables,Grupo Andino Retail,203,Planta Bogotá,262510
+2024-04-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,158,Planta Cali,267070
+2024-04-01,Bolsas biodegradables,Almacenes del Pacífico,358,Planta Medellín,60520
+2024-04-01,Bolsas biodegradables,Comercial Caribe S.A.S.,215,Planta Bucaramanga,60450
+2024-04-01,Bolsas biodegradables,Distribuciones Antioqueñas,364,Planta Medellín,58350
+2024-04-01,Bolsas biodegradables,Grupo Andino Retail,491,Planta Bogotá,58760
+2024-04-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,370,Planta Medellín,59740
+2024-04-01,Bombillos incandescentes,Almacenes del Pacífico,361,Planta Cali,69240
+2024-04-01,Bombillos incandescentes,Comercial Caribe S.A.S.,475,Planta Medellín,69110
+2024-04-01,Bombillos incandescentes,Distribuciones Antioqueñas,580,Planta Medellín,66880
+2024-04-01,Bombillos incandescentes,Grupo Andino Retail,471,Planta Bogotá,67250
+2024-04-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,181,Planta Cali,68500
+2024-04-01,Chocolatería de regalo,Almacenes del Pacífico,309,Planta Cali,92440
+2024-04-01,Chocolatería de regalo,Comercial Caribe S.A.S.,302,Planta Bucaramanga,92000
+2024-04-01,Chocolatería de regalo,Distribuciones Antioqueñas,232,Planta Medellín,89880
+2024-04-01,Chocolatería de regalo,Grupo Andino Retail,233,Planta Bogotá,89710
+2024-04-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,102,Planta Cali,91910
+2024-04-01,Cuadernos escolares,Almacenes del Pacífico,235,Planta Cali,69180
+2024-04-01,Cuadernos escolares,Comercial Caribe S.A.S.,351,Planta Medellín,68320
+2024-04-01,Cuadernos escolares,Distribuciones Antioqueñas,207,Planta Medellín,66200
+2024-04-01,Cuadernos escolares,Grupo Andino Retail,571,Planta Bogotá,67160
+2024-04-01,Cuadernos escolares,Mayoristas del Eje Cafetero,197,Planta Cali,69150
+2024-04-01,Envases plásticos tradicionales,Almacenes del Pacífico,1015,Planta Cali,51390
+2024-04-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,529,Planta Bucaramanga,50600
+2024-04-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,564,Planta Medellín,48590
+2024-04-01,Envases plásticos tradicionales,Grupo Andino Retail,1397,Planta Bogotá,49220
+2024-04-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,185,Planta Cali,50600
+2024-04-01,Impermeables industriales,Almacenes del Pacífico,282,Planta Medellín,136680
+2024-04-01,Impermeables industriales,Comercial Caribe S.A.S.,307,Planta Bucaramanga,135260
+2024-04-01,Impermeables industriales,Distribuciones Antioqueñas,345,Planta Medellín,131650
+2024-04-01,Impermeables industriales,Grupo Andino Retail,443,Planta Bogotá,132960
+2024-04-01,Impermeables industriales,Mayoristas del Eje Cafetero,189,Planta Medellín,136370
+2024-04-01,Juguetes didácticos,Almacenes del Pacífico,121,Planta Medellín,131670
+2024-04-01,Juguetes didácticos,Comercial Caribe S.A.S.,135,Planta Bucaramanga,130110
+2024-04-01,Juguetes didácticos,Distribuciones Antioqueñas,181,Planta Medellín,126570
+2024-04-01,Juguetes didácticos,Grupo Andino Retail,260,Planta Bogotá,126150
+2024-04-01,Juguetes didácticos,Mayoristas del Eje Cafetero,164,Planta Medellín,129960
+2024-04-01,Paneles solares portátiles,Almacenes del Pacífico,80,Planta Cali,313010
+2024-04-01,Paneles solares portátiles,Comercial Caribe S.A.S.,93,Planta Bucaramanga,309770
+2024-04-01,Paneles solares portátiles,Distribuciones Antioqueñas,149,Planta Bogotá,301560
+2024-04-01,Paneles solares portátiles,Grupo Andino Retail,137,Planta Bogotá,301110
+2024-04-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,76,Planta Cali,309480
+2024-04-01,Ventiladores de torre,Almacenes del Pacífico,272,Planta Cali,194030
+2024-04-01,Ventiladores de torre,Comercial Caribe S.A.S.,336,Planta Bucaramanga,192560
+2024-04-01,Ventiladores de torre,Distribuciones Antioqueñas,258,Planta Bogotá,187050
+2024-04-01,Ventiladores de torre,Grupo Andino Retail,275,Planta Bogotá,188860
+2024-04-01,Ventiladores de torre,Mayoristas del Eje Cafetero,168,Planta Cali,192840
+2024-05-01,Baterías de litio recargables,Almacenes del Pacífico,89,Planta Cali,268950
+2024-05-01,Baterías de litio recargables,Comercial Caribe S.A.S.,113,Planta Medellín,270130
+2024-05-01,Baterías de litio recargables,Distribuciones Antioqueñas,86,Planta Medellín,261670
+2024-05-01,Baterías de litio recargables,Grupo Andino Retail,195,Planta Bogotá,263970
+2024-05-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,162,Planta Cali,269590
+2024-05-01,Bolsas biodegradables,Almacenes del Pacífico,428,Planta Medellín,60700
+2024-05-01,Bolsas biodegradables,Comercial Caribe S.A.S.,217,Planta Bucaramanga,60300
+2024-05-01,Bolsas biodegradables,Distribuciones Antioqueñas,362,Planta Medellín,58540
+2024-05-01,Bolsas biodegradables,Grupo Andino Retail,515,Planta Bogotá,58680
+2024-05-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,412,Planta Medellín,60130
+2024-05-01,Bombillos incandescentes,Almacenes del Pacífico,351,Planta Cali,70230
+2024-05-01,Bombillos incandescentes,Comercial Caribe S.A.S.,493,Planta Medellín,68960
+2024-05-01,Bombillos incandescentes,Distribuciones Antioqueñas,556,Planta Medellín,67520
+2024-05-01,Bombillos incandescentes,Grupo Andino Retail,517,Planta Bogotá,67980
+2024-05-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,156,Planta Cali,69820
+2024-05-01,Chocolatería de regalo,Almacenes del Pacífico,569,Planta Cali,93210
+2024-05-01,Chocolatería de regalo,Comercial Caribe S.A.S.,631,Planta Bucaramanga,92370
+2024-05-01,Chocolatería de regalo,Distribuciones Antioqueñas,511,Planta Medellín,88750
+2024-05-01,Chocolatería de regalo,Grupo Andino Retail,512,Planta Bogotá,89830
+2024-05-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,215,Planta Cali,91990
+2024-05-01,Cuadernos escolares,Almacenes del Pacífico,217,Planta Cali,69330
+2024-05-01,Cuadernos escolares,Comercial Caribe S.A.S.,328,Planta Medellín,68780
+2024-05-01,Cuadernos escolares,Distribuciones Antioqueñas,179,Planta Medellín,66890
+2024-05-01,Cuadernos escolares,Grupo Andino Retail,452,Planta Bogotá,66960
+2024-05-01,Cuadernos escolares,Mayoristas del Eje Cafetero,175,Planta Cali,68980
+2024-05-01,Envases plásticos tradicionales,Almacenes del Pacífico,785,Planta Cali,51740
+2024-05-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,567,Planta Bucaramanga,50500
+2024-05-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,541,Planta Medellín,49160
+2024-05-01,Envases plásticos tradicionales,Grupo Andino Retail,1156,Planta Bogotá,49620
+2024-05-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,187,Planta Cali,50240
+2024-05-01,Impermeables industriales,Almacenes del Pacífico,323,Planta Medellín,136670
+2024-05-01,Impermeables industriales,Comercial Caribe S.A.S.,366,Planta Bucaramanga,136450
+2024-05-01,Impermeables industriales,Distribuciones Antioqueñas,403,Planta Medellín,132910
+2024-05-01,Impermeables industriales,Grupo Andino Retail,424,Planta Bogotá,132660
+2024-05-01,Impermeables industriales,Mayoristas del Eje Cafetero,179,Planta Medellín,136220
+2024-05-01,Juguetes didácticos,Almacenes del Pacífico,104,Planta Medellín,132250
+2024-05-01,Juguetes didácticos,Comercial Caribe S.A.S.,152,Planta Bucaramanga,130890
+2024-05-01,Juguetes didácticos,Distribuciones Antioqueñas,194,Planta Medellín,127400
+2024-05-01,Juguetes didácticos,Grupo Andino Retail,269,Planta Bogotá,127690
+2024-05-01,Juguetes didácticos,Mayoristas del Eje Cafetero,169,Planta Medellín,131000
+2024-05-01,Paneles solares portátiles,Almacenes del Pacífico,79,Planta Cali,315740
+2024-05-01,Paneles solares portátiles,Comercial Caribe S.A.S.,86,Planta Bucaramanga,310020
+2024-05-01,Paneles solares portátiles,Distribuciones Antioqueñas,137,Planta Bogotá,301530
+2024-05-01,Paneles solares portátiles,Grupo Andino Retail,150,Planta Bogotá,302890
+2024-05-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,72,Planta Cali,310410
+2024-05-01,Ventiladores de torre,Almacenes del Pacífico,188,Planta Cali,195410
+2024-05-01,Ventiladores de torre,Comercial Caribe S.A.S.,227,Planta Bucaramanga,194920
+2024-05-01,Ventiladores de torre,Distribuciones Antioqueñas,173,Planta Bogotá,189300
+2024-05-01,Ventiladores de torre,Grupo Andino Retail,172,Planta Bogotá,189070
+2024-05-01,Ventiladores de torre,Mayoristas del Eje Cafetero,105,Planta Cali,193380
+2024-06-01,Baterías de litio recargables,Almacenes del Pacífico,94,Planta Cali,270850
+2024-06-01,Baterías de litio recargables,Comercial Caribe S.A.S.,132,Planta Medellín,269100
+2024-06-01,Baterías de litio recargables,Distribuciones Antioqueñas,107,Planta Medellín,261780
+2024-06-01,Baterías de litio recargables,Grupo Andino Retail,188,Planta Bogotá,265080
+2024-06-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,155,Planta Cali,270140
+2024-06-01,Bolsas biodegradables,Almacenes del Pacífico,388,Planta Medellín,61430
+2024-06-01,Bolsas biodegradables,Comercial Caribe S.A.S.,202,Planta Bucaramanga,60330
+2024-06-01,Bolsas biodegradables,Distribuciones Antioqueñas,349,Planta Medellín,58760
+2024-06-01,Bolsas biodegradables,Grupo Andino Retail,522,Planta Bogotá,59120
+2024-06-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,384,Planta Medellín,60350
+2024-06-01,Bombillos incandescentes,Almacenes del Pacífico,351,Planta Cali,70490
+2024-06-01,Bombillos incandescentes,Comercial Caribe S.A.S.,448,Planta Medellín,68580
+2024-06-01,Bombillos incandescentes,Distribuciones Antioqueñas,503,Planta Medellín,67630
+2024-06-01,Bombillos incandescentes,Grupo Andino Retail,437,Planta Bogotá,68300
+2024-06-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,171,Planta Cali,69290
+2024-06-01,Chocolatería de regalo,Almacenes del Pacífico,341,Planta Cali,92660
+2024-06-01,Chocolatería de regalo,Comercial Caribe S.A.S.,329,Planta Bucaramanga,91620
+2024-06-01,Chocolatería de regalo,Distribuciones Antioqueñas,278,Planta Medellín,89190
+2024-06-01,Chocolatería de regalo,Grupo Andino Retail,281,Planta Bogotá,91250
+2024-06-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,125,Planta Cali,93580
+2024-06-01,Cuadernos escolares,Almacenes del Pacífico,256,Planta Cali,69760
+2024-06-01,Cuadernos escolares,Comercial Caribe S.A.S.,348,Planta Medellín,68980
+2024-06-01,Cuadernos escolares,Distribuciones Antioqueñas,196,Planta Medellín,67020
+2024-06-01,Cuadernos escolares,Grupo Andino Retail,542,Planta Bogotá,67380
+2024-06-01,Cuadernos escolares,Mayoristas del Eje Cafetero,211,Planta Cali,69260
+2024-06-01,Envases plásticos tradicionales,Almacenes del Pacífico,821,Planta Cali,51560
+2024-06-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,509,Planta Bucaramanga,50630
+2024-06-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,539,Planta Medellín,49490
+2024-06-01,Envases plásticos tradicionales,Grupo Andino Retail,1118,Planta Bogotá,49720
+2024-06-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,206,Planta Cali,50660
+2024-06-01,Impermeables industriales,Almacenes del Pacífico,166,Planta Medellín,137170
+2024-06-01,Impermeables industriales,Comercial Caribe S.A.S.,168,Planta Bucaramanga,137110
+2024-06-01,Impermeables industriales,Distribuciones Antioqueñas,201,Planta Medellín,132210
+2024-06-01,Impermeables industriales,Grupo Andino Retail,233,Planta Bogotá,134720
+2024-06-01,Impermeables industriales,Mayoristas del Eje Cafetero,101,Planta Medellín,136560
+2024-06-01,Juguetes didácticos,Almacenes del Pacífico,95,Planta Medellín,132580
+2024-06-01,Juguetes didácticos,Comercial Caribe S.A.S.,143,Planta Bucaramanga,131200
+2024-06-01,Juguetes didácticos,Distribuciones Antioqueñas,151,Planta Medellín,126680
+2024-06-01,Juguetes didácticos,Grupo Andino Retail,248,Planta Bogotá,129740
+2024-06-01,Juguetes didácticos,Mayoristas del Eje Cafetero,151,Planta Medellín,130770
+2024-06-01,Paneles solares portátiles,Almacenes del Pacífico,86,Planta Cali,317260
+2024-06-01,Paneles solares portátiles,Comercial Caribe S.A.S.,86,Planta Bucaramanga,310270
+2024-06-01,Paneles solares portátiles,Distribuciones Antioqueñas,147,Planta Bogotá,304460
+2024-06-01,Paneles solares portátiles,Grupo Andino Retail,150,Planta Bogotá,305470
+2024-06-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,84,Planta Cali,314120
+2024-06-01,Ventiladores de torre,Almacenes del Pacífico,123,Planta Cali,196850
+2024-06-01,Ventiladores de torre,Comercial Caribe S.A.S.,165,Planta Bucaramanga,195610
+2024-06-01,Ventiladores de torre,Distribuciones Antioqueñas,128,Planta Bogotá,188320
+2024-06-01,Ventiladores de torre,Grupo Andino Retail,120,Planta Bogotá,189630
+2024-06-01,Ventiladores de torre,Mayoristas del Eje Cafetero,76,Planta Cali,195720
+2024-07-01,Baterías de litio recargables,Almacenes del Pacífico,104,Planta Cali,272100
+2024-07-01,Baterías de litio recargables,Comercial Caribe S.A.S.,115,Planta Medellín,270010
+2024-07-01,Baterías de litio recargables,Distribuciones Antioqueñas,87,Planta Medellín,263820
+2024-07-01,Baterías de litio recargables,Grupo Andino Retail,226,Planta Bogotá,265240
+2024-07-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,153,Planta Cali,272440
+2024-07-01,Bolsas biodegradables,Almacenes del Pacífico,401,Planta Medellín,61650
+2024-07-01,Bolsas biodegradables,Comercial Caribe S.A.S.,229,Planta Bucaramanga,61190
+2024-07-01,Bolsas biodegradables,Distribuciones Antioqueñas,391,Planta Medellín,58690
+2024-07-01,Bolsas biodegradables,Grupo Andino Retail,520,Planta Bogotá,59400
+2024-07-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,341,Planta Medellín,60360
+2024-07-01,Bombillos incandescentes,Almacenes del Pacífico,337,Planta Cali,70470
+2024-07-01,Bombillos incandescentes,Comercial Caribe S.A.S.,432,Planta Medellín,69610
+2024-07-01,Bombillos incandescentes,Distribuciones Antioqueñas,495,Planta Medellín,68150
+2024-07-01,Bombillos incandescentes,Grupo Andino Retail,474,Planta Bogotá,68670
+2024-07-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,167,Planta Cali,69280
+2024-07-01,Chocolatería de regalo,Almacenes del Pacífico,295,Planta Cali,94090
+2024-07-01,Chocolatería de regalo,Comercial Caribe S.A.S.,284,Planta Bucaramanga,92560
+2024-07-01,Chocolatería de regalo,Distribuciones Antioqueñas,232,Planta Medellín,90210
+2024-07-01,Chocolatería de regalo,Grupo Andino Retail,279,Planta Bogotá,90810
+2024-07-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,100,Planta Cali,93500
+2024-07-01,Cuadernos escolares,Almacenes del Pacífico,346,Planta Cali,69560
+2024-07-01,Cuadernos escolares,Comercial Caribe S.A.S.,527,Planta Medellín,69510
+2024-07-01,Cuadernos escolares,Distribuciones Antioqueñas,272,Planta Medellín,67450
+2024-07-01,Cuadernos escolares,Grupo Andino Retail,863,Planta Bogotá,67690
+2024-07-01,Cuadernos escolares,Mayoristas del Eje Cafetero,287,Planta Cali,69280
+2024-07-01,Envases plásticos tradicionales,Almacenes del Pacífico,925,Planta Cali,51260
+2024-07-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,577,Planta Bucaramanga,51240
+2024-07-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,481,Planta Medellín,49070
+2024-07-01,Envases plásticos tradicionales,Grupo Andino Retail,1373,Planta Bogotá,49510
+2024-07-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,184,Planta Cali,51010
+2024-07-01,Impermeables industriales,Almacenes del Pacífico,94,Planta Medellín,140020
+2024-07-01,Impermeables industriales,Comercial Caribe S.A.S.,93,Planta Bucaramanga,137290
+2024-07-01,Impermeables industriales,Distribuciones Antioqueñas,123,Planta Medellín,134040
+2024-07-01,Impermeables industriales,Grupo Andino Retail,126,Planta Bogotá,134800
+2024-07-01,Impermeables industriales,Mayoristas del Eje Cafetero,55,Planta Medellín,137090
+2024-07-01,Juguetes didácticos,Almacenes del Pacífico,107,Planta Medellín,133250
+2024-07-01,Juguetes didácticos,Comercial Caribe S.A.S.,165,Planta Bucaramanga,131790
+2024-07-01,Juguetes didácticos,Distribuciones Antioqueñas,181,Planta Medellín,127160
+2024-07-01,Juguetes didácticos,Grupo Andino Retail,309,Planta Bogotá,128380
+2024-07-01,Juguetes didácticos,Mayoristas del Eje Cafetero,157,Planta Medellín,131320
+2024-07-01,Paneles solares portátiles,Almacenes del Pacífico,87,Planta Cali,318830
+2024-07-01,Paneles solares portátiles,Comercial Caribe S.A.S.,100,Planta Bucaramanga,317220
+2024-07-01,Paneles solares portátiles,Distribuciones Antioqueñas,145,Planta Bogotá,303750
+2024-07-01,Paneles solares portátiles,Grupo Andino Retail,152,Planta Bogotá,311180
+2024-07-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,82,Planta Cali,316340
+2024-07-01,Ventiladores de torre,Almacenes del Pacífico,99,Planta Cali,197430
+2024-07-01,Ventiladores de torre,Comercial Caribe S.A.S.,143,Planta Bucaramanga,195170
+2024-07-01,Ventiladores de torre,Distribuciones Antioqueñas,116,Planta Bogotá,187230
+2024-07-01,Ventiladores de torre,Grupo Andino Retail,123,Planta Bogotá,191520
+2024-07-01,Ventiladores de torre,Mayoristas del Eje Cafetero,65,Planta Cali,194240
+2024-08-01,Baterías de litio recargables,Almacenes del Pacífico,102,Planta Cali,273760
+2024-08-01,Baterías de litio recargables,Comercial Caribe S.A.S.,131,Planta Medellín,273690
+2024-08-01,Baterías de litio recargables,Distribuciones Antioqueñas,91,Planta Medellín,264350
+2024-08-01,Baterías de litio recargables,Grupo Andino Retail,204,Planta Bogotá,268340
+2024-08-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,148,Planta Cali,269900
+2024-08-01,Bolsas biodegradables,Almacenes del Pacífico,428,Planta Medellín,61450
+2024-08-01,Bolsas biodegradables,Comercial Caribe S.A.S.,232,Planta Bucaramanga,61370
+2024-08-01,Bolsas biodegradables,Distribuciones Antioqueñas,380,Planta Medellín,58940
+2024-08-01,Bolsas biodegradables,Grupo Andino Retail,599,Planta Bogotá,59790
+2024-08-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,426,Planta Medellín,60310
+2024-08-01,Bombillos incandescentes,Almacenes del Pacífico,310,Planta Cali,70100
+2024-08-01,Bombillos incandescentes,Comercial Caribe S.A.S.,413,Planta Medellín,70130
+2024-08-01,Bombillos incandescentes,Distribuciones Antioqueñas,518,Planta Medellín,67570
+2024-08-01,Bombillos incandescentes,Grupo Andino Retail,366,Planta Bogotá,69150
+2024-08-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,184,Planta Cali,69940
+2024-08-01,Chocolatería de regalo,Almacenes del Pacífico,341,Planta Cali,94420
+2024-08-01,Chocolatería de regalo,Comercial Caribe S.A.S.,299,Planta Bucaramanga,93970
+2024-08-01,Chocolatería de regalo,Distribuciones Antioqueñas,287,Planta Medellín,90110
+2024-08-01,Chocolatería de regalo,Grupo Andino Retail,321,Planta Bogotá,91340
+2024-08-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,126,Planta Cali,93380
+2024-08-01,Cuadernos escolares,Almacenes del Pacífico,700,Planta Cali,69900
+2024-08-01,Cuadernos escolares,Comercial Caribe S.A.S.,839,Planta Medellín,69810
+2024-08-01,Cuadernos escolares,Distribuciones Antioqueñas,441,Planta Medellín,67150
+2024-08-01,Cuadernos escolares,Grupo Andino Retail,1320,Planta Bogotá,68710
+2024-08-01,Cuadernos escolares,Mayoristas del Eje Cafetero,440,Planta Cali,69420
+2024-08-01,Envases plásticos tradicionales,Almacenes del Pacífico,885,Planta Cali,51690
+2024-08-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,540,Planta Bucaramanga,51630
+2024-08-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,481,Planta Medellín,49890
+2024-08-01,Envases plásticos tradicionales,Grupo Andino Retail,1132,Planta Bogotá,49920
+2024-08-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,203,Planta Cali,51210
+2024-08-01,Impermeables industriales,Almacenes del Pacífico,105,Planta Medellín,139310
+2024-08-01,Impermeables industriales,Comercial Caribe S.A.S.,119,Planta Bucaramanga,137960
+2024-08-01,Impermeables industriales,Distribuciones Antioqueñas,132,Planta Medellín,133470
+2024-08-01,Impermeables industriales,Grupo Andino Retail,156,Planta Bogotá,135000
+2024-08-01,Impermeables industriales,Mayoristas del Eje Cafetero,61,Planta Medellín,137760
+2024-08-01,Juguetes didácticos,Almacenes del Pacífico,97,Planta Medellín,132630
+2024-08-01,Juguetes didácticos,Comercial Caribe S.A.S.,143,Planta Bucaramanga,131700
+2024-08-01,Juguetes didácticos,Distribuciones Antioqueñas,179,Planta Medellín,128080
+2024-08-01,Juguetes didácticos,Grupo Andino Retail,259,Planta Bogotá,129260
+2024-08-01,Juguetes didácticos,Mayoristas del Eje Cafetero,148,Planta Medellín,133150
+2024-08-01,Paneles solares portátiles,Almacenes del Pacífico,89,Planta Cali,320050
+2024-08-01,Paneles solares portátiles,Comercial Caribe S.A.S.,107,Planta Bucaramanga,313070
+2024-08-01,Paneles solares portátiles,Distribuciones Antioqueñas,150,Planta Bogotá,306060
+2024-08-01,Paneles solares portátiles,Grupo Andino Retail,167,Planta Bogotá,309710
+2024-08-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,96,Planta Cali,312940
+2024-08-01,Ventiladores de torre,Almacenes del Pacífico,120,Planta Cali,198330
+2024-08-01,Ventiladores de torre,Comercial Caribe S.A.S.,142,Planta Bucaramanga,195920
+2024-08-01,Ventiladores de torre,Distribuciones Antioqueñas,95,Planta Bogotá,190790
+2024-08-01,Ventiladores de torre,Grupo Andino Retail,114,Planta Bogotá,191530
+2024-08-01,Ventiladores de torre,Mayoristas del Eje Cafetero,67,Planta Cali,196820
+2024-09-01,Baterías de litio recargables,Almacenes del Pacífico,106,Planta Cali,277750
+2024-09-01,Baterías de litio recargables,Comercial Caribe S.A.S.,124,Planta Medellín,273080
+2024-09-01,Baterías de litio recargables,Distribuciones Antioqueñas,98,Planta Medellín,263460
+2024-09-01,Baterías de litio recargables,Grupo Andino Retail,218,Planta Bogotá,267740
+2024-09-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,167,Planta Cali,274050
+2024-09-01,Bolsas biodegradables,Almacenes del Pacífico,436,Planta Medellín,61910
+2024-09-01,Bolsas biodegradables,Comercial Caribe S.A.S.,242,Planta Bucaramanga,61690
+2024-09-01,Bolsas biodegradables,Distribuciones Antioqueñas,369,Planta Medellín,59030
+2024-09-01,Bolsas biodegradables,Grupo Andino Retail,658,Planta Bogotá,60020
+2024-09-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,383,Planta Medellín,61070
+2024-09-01,Bombillos incandescentes,Almacenes del Pacífico,326,Planta Cali,71120
+2024-09-01,Bombillos incandescentes,Comercial Caribe S.A.S.,437,Planta Medellín,69560
+2024-09-01,Bombillos incandescentes,Distribuciones Antioqueñas,494,Planta Medellín,68800
+2024-09-01,Bombillos incandescentes,Grupo Andino Retail,396,Planta Bogotá,68980
+2024-09-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,180,Planta Cali,70370
+2024-09-01,Chocolatería de regalo,Almacenes del Pacífico,536,Planta Cali,94650
+2024-09-01,Chocolatería de regalo,Comercial Caribe S.A.S.,627,Planta Bucaramanga,94200
+2024-09-01,Chocolatería de regalo,Distribuciones Antioqueñas,516,Planta Medellín,91280
+2024-09-01,Chocolatería de regalo,Grupo Andino Retail,558,Planta Bogotá,91650
+2024-09-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,220,Planta Cali,93770
+2024-09-01,Cuadernos escolares,Almacenes del Pacífico,436,Planta Cali,71290
+2024-09-01,Cuadernos escolares,Comercial Caribe S.A.S.,694,Planta Medellín,69790
+2024-09-01,Cuadernos escolares,Distribuciones Antioqueñas,315,Planta Medellín,67900
+2024-09-01,Cuadernos escolares,Grupo Andino Retail,993,Planta Bogotá,68790
+2024-09-01,Cuadernos escolares,Mayoristas del Eje Cafetero,349,Planta Cali,69520
+2024-09-01,Envases plásticos tradicionales,Almacenes del Pacífico,878,Planta Cali,51990
+2024-09-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,536,Planta Bucaramanga,51240
+2024-09-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,474,Planta Medellín,49700
+2024-09-01,Envases plásticos tradicionales,Grupo Andino Retail,1223,Planta Bogotá,50290
+2024-09-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,170,Planta Cali,51550
+2024-09-01,Impermeables industriales,Almacenes del Pacífico,167,Planta Medellín,139430
+2024-09-01,Impermeables industriales,Comercial Caribe S.A.S.,193,Planta Bucaramanga,138800
+2024-09-01,Impermeables industriales,Distribuciones Antioqueñas,227,Planta Medellín,133210
+2024-09-01,Impermeables industriales,Grupo Andino Retail,272,Planta Bogotá,135170
+2024-09-01,Impermeables industriales,Mayoristas del Eje Cafetero,109,Planta Medellín,138110
+2024-09-01,Juguetes didácticos,Almacenes del Pacífico,137,Planta Medellín,134180
+2024-09-01,Juguetes didácticos,Comercial Caribe S.A.S.,176,Planta Bucaramanga,132820
+2024-09-01,Juguetes didácticos,Distribuciones Antioqueñas,224,Planta Medellín,128610
+2024-09-01,Juguetes didácticos,Grupo Andino Retail,322,Planta Bogotá,130160
+2024-09-01,Juguetes didácticos,Mayoristas del Eje Cafetero,177,Planta Medellín,132410
+2024-09-01,Paneles solares portátiles,Almacenes del Pacífico,96,Planta Cali,318780
+2024-09-01,Paneles solares portátiles,Comercial Caribe S.A.S.,105,Planta Bucaramanga,319150
+2024-09-01,Paneles solares portátiles,Distribuciones Antioqueñas,138,Planta Bogotá,305130
+2024-09-01,Paneles solares portátiles,Grupo Andino Retail,149,Planta Bogotá,309550
+2024-09-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,78,Planta Cali,315930
+2024-09-01,Ventiladores de torre,Almacenes del Pacífico,123,Planta Cali,198160
+2024-09-01,Ventiladores de torre,Comercial Caribe S.A.S.,185,Planta Bucaramanga,194420
+2024-09-01,Ventiladores de torre,Distribuciones Antioqueñas,127,Planta Bogotá,191040
+2024-09-01,Ventiladores de torre,Grupo Andino Retail,125,Planta Bogotá,192080
+2024-09-01,Ventiladores de torre,Mayoristas del Eje Cafetero,78,Planta Cali,197430
+2024-10-01,Baterías de litio recargables,Almacenes del Pacífico,116,Planta Cali,277050
+2024-10-01,Baterías de litio recargables,Comercial Caribe S.A.S.,143,Planta Medellín,271020
+2024-10-01,Baterías de litio recargables,Distribuciones Antioqueñas,103,Planta Medellín,265810
+2024-10-01,Baterías de litio recargables,Grupo Andino Retail,171,Planta Bogotá,269490
+2024-10-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,169,Planta Cali,274840
+2024-10-01,Bolsas biodegradables,Almacenes del Pacífico,457,Planta Medellín,61880
+2024-10-01,Bolsas biodegradables,Comercial Caribe S.A.S.,234,Planta Bucaramanga,62170
+2024-10-01,Bolsas biodegradables,Distribuciones Antioqueñas,423,Planta Medellín,59910
+2024-10-01,Bolsas biodegradables,Grupo Andino Retail,557,Planta Bogotá,60210
+2024-10-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,460,Planta Medellín,61680
+2024-10-01,Bombillos incandescentes,Almacenes del Pacífico,326,Planta Cali,70860
+2024-10-01,Bombillos incandescentes,Comercial Caribe S.A.S.,438,Planta Medellín,70310
+2024-10-01,Bombillos incandescentes,Distribuciones Antioqueñas,474,Planta Medellín,68670
+2024-10-01,Bombillos incandescentes,Grupo Andino Retail,364,Planta Bogotá,69400
+2024-10-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,178,Planta Cali,70730
+2024-10-01,Chocolatería de regalo,Almacenes del Pacífico,370,Planta Cali,94650
+2024-10-01,Chocolatería de regalo,Comercial Caribe S.A.S.,372,Planta Bucaramanga,94570
+2024-10-01,Chocolatería de regalo,Distribuciones Antioqueñas,341,Planta Medellín,91360
+2024-10-01,Chocolatería de regalo,Grupo Andino Retail,328,Planta Bogotá,92230
+2024-10-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,140,Planta Cali,94620
+2024-10-01,Cuadernos escolares,Almacenes del Pacífico,320,Planta Cali,70500
+2024-10-01,Cuadernos escolares,Comercial Caribe S.A.S.,349,Planta Medellín,69930
+2024-10-01,Cuadernos escolares,Distribuciones Antioqueñas,218,Planta Medellín,68160
+2024-10-01,Cuadernos escolares,Grupo Andino Retail,560,Planta Bogotá,68740
+2024-10-01,Cuadernos escolares,Mayoristas del Eje Cafetero,202,Planta Cali,70150
+2024-10-01,Envases plásticos tradicionales,Almacenes del Pacífico,904,Planta Cali,52150
+2024-10-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,616,Planta Bucaramanga,51670
+2024-10-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,425,Planta Medellín,50510
+2024-10-01,Envases plásticos tradicionales,Grupo Andino Retail,1331,Planta Bogotá,50830
+2024-10-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,177,Planta Cali,52100
+2024-10-01,Impermeables industriales,Almacenes del Pacífico,317,Planta Medellín,140390
+2024-10-01,Impermeables industriales,Comercial Caribe S.A.S.,361,Planta Bucaramanga,137580
+2024-10-01,Impermeables industriales,Distribuciones Antioqueñas,419,Planta Medellín,133620
+2024-10-01,Impermeables industriales,Grupo Andino Retail,466,Planta Bogotá,135090
+2024-10-01,Impermeables industriales,Mayoristas del Eje Cafetero,200,Planta Medellín,139280
+2024-10-01,Juguetes didácticos,Almacenes del Pacífico,183,Planta Medellín,135530
+2024-10-01,Juguetes didácticos,Comercial Caribe S.A.S.,270,Planta Bucaramanga,132960
+2024-10-01,Juguetes didácticos,Distribuciones Antioqueñas,333,Planta Medellín,128580
+2024-10-01,Juguetes didácticos,Grupo Andino Retail,491,Planta Bogotá,130340
+2024-10-01,Juguetes didácticos,Mayoristas del Eje Cafetero,269,Planta Medellín,133060
+2024-10-01,Paneles solares portátiles,Almacenes del Pacífico,81,Planta Cali,323830
+2024-10-01,Paneles solares portátiles,Comercial Caribe S.A.S.,99,Planta Bucaramanga,318330
+2024-10-01,Paneles solares portátiles,Distribuciones Antioqueñas,162,Planta Bogotá,304610
+2024-10-01,Paneles solares portátiles,Grupo Andino Retail,177,Planta Bogotá,310210
+2024-10-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,79,Planta Cali,316450
+2024-10-01,Ventiladores de torre,Almacenes del Pacífico,123,Planta Cali,199210
+2024-10-01,Ventiladores de torre,Comercial Caribe S.A.S.,147,Planta Bucaramanga,196950
+2024-10-01,Ventiladores de torre,Distribuciones Antioqueñas,117,Planta Bogotá,191540
+2024-10-01,Ventiladores de torre,Grupo Andino Retail,107,Planta Bogotá,192200
+2024-10-01,Ventiladores de torre,Mayoristas del Eje Cafetero,74,Planta Cali,196570
+2024-11-01,Baterías de litio recargables,Almacenes del Pacífico,109,Planta Cali,277530
+2024-11-01,Baterías de litio recargables,Comercial Caribe S.A.S.,149,Planta Medellín,273750
+2024-11-01,Baterías de litio recargables,Distribuciones Antioqueñas,103,Planta Medellín,267910
+2024-11-01,Baterías de litio recargables,Grupo Andino Retail,176,Planta Bogotá,271860
+2024-11-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,162,Planta Cali,276470
+2024-11-01,Bolsas biodegradables,Almacenes del Pacífico,434,Planta Medellín,62280
+2024-11-01,Bolsas biodegradables,Comercial Caribe S.A.S.,230,Planta Bucaramanga,61450
+2024-11-01,Bolsas biodegradables,Distribuciones Antioqueñas,408,Planta Medellín,60420
+2024-11-01,Bolsas biodegradables,Grupo Andino Retail,586,Planta Bogotá,60580
+2024-11-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,399,Planta Medellín,62090
+2024-11-01,Bombillos incandescentes,Almacenes del Pacífico,323,Planta Cali,72360
+2024-11-01,Bombillos incandescentes,Comercial Caribe S.A.S.,439,Planta Medellín,70460
+2024-11-01,Bombillos incandescentes,Distribuciones Antioqueñas,491,Planta Medellín,68430
+2024-11-01,Bombillos incandescentes,Grupo Andino Retail,375,Planta Bogotá,69530
+2024-11-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,169,Planta Cali,71170
+2024-11-01,Chocolatería de regalo,Almacenes del Pacífico,441,Planta Cali,95960
+2024-11-01,Chocolatería de regalo,Comercial Caribe S.A.S.,408,Planta Bucaramanga,94410
+2024-11-01,Chocolatería de regalo,Distribuciones Antioqueñas,378,Planta Medellín,90620
+2024-11-01,Chocolatería de regalo,Grupo Andino Retail,431,Planta Bogotá,92820
+2024-11-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,153,Planta Cali,94850
+2024-11-01,Cuadernos escolares,Almacenes del Pacífico,229,Planta Cali,71320
+2024-11-01,Cuadernos escolares,Comercial Caribe S.A.S.,320,Planta Medellín,70900
+2024-11-01,Cuadernos escolares,Distribuciones Antioqueñas,170,Planta Medellín,68480
+2024-11-01,Cuadernos escolares,Grupo Andino Retail,481,Planta Bogotá,68970
+2024-11-01,Cuadernos escolares,Mayoristas del Eje Cafetero,177,Planta Cali,70760
+2024-11-01,Envases plásticos tradicionales,Almacenes del Pacífico,814,Planta Cali,52630
+2024-11-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,528,Planta Bucaramanga,51780
+2024-11-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,508,Planta Medellín,50460
+2024-11-01,Envases plásticos tradicionales,Grupo Andino Retail,1238,Planta Bogotá,50820
+2024-11-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,181,Planta Cali,51240
+2024-11-01,Impermeables industriales,Almacenes del Pacífico,334,Planta Medellín,140900
+2024-11-01,Impermeables industriales,Comercial Caribe S.A.S.,328,Planta Bucaramanga,139670
+2024-11-01,Impermeables industriales,Distribuciones Antioqueñas,456,Planta Medellín,135430
+2024-11-01,Impermeables industriales,Grupo Andino Retail,429,Planta Bogotá,137380
+2024-11-01,Impermeables industriales,Mayoristas del Eje Cafetero,210,Planta Medellín,139240
+2024-11-01,Juguetes didácticos,Almacenes del Pacífico,272,Planta Medellín,135120
+2024-11-01,Juguetes didácticos,Comercial Caribe S.A.S.,389,Planta Bucaramanga,133580
+2024-11-01,Juguetes didácticos,Distribuciones Antioqueñas,502,Planta Medellín,130170
+2024-11-01,Juguetes didácticos,Grupo Andino Retail,738,Planta Bogotá,130330
+2024-11-01,Juguetes didácticos,Mayoristas del Eje Cafetero,408,Planta Medellín,132250
+2024-11-01,Paneles solares portátiles,Almacenes del Pacífico,97,Planta Cali,319870
+2024-11-01,Paneles solares portátiles,Comercial Caribe S.A.S.,90,Planta Bucaramanga,319870
+2024-11-01,Paneles solares portátiles,Distribuciones Antioqueñas,161,Planta Bogotá,309120
+2024-11-01,Paneles solares portátiles,Grupo Andino Retail,190,Planta Bogotá,311170
+2024-11-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,84,Planta Cali,317500
+2024-11-01,Ventiladores de torre,Almacenes del Pacífico,123,Planta Cali,201170
+2024-11-01,Ventiladores de torre,Comercial Caribe S.A.S.,168,Planta Bucaramanga,198960
+2024-11-01,Ventiladores de torre,Distribuciones Antioqueñas,142,Planta Bogotá,193120
+2024-11-01,Ventiladores de torre,Grupo Andino Retail,113,Planta Bogotá,192120
+2024-11-01,Ventiladores de torre,Mayoristas del Eje Cafetero,71,Planta Cali,196650
+2024-12-01,Baterías de litio recargables,Almacenes del Pacífico,117,Planta Cali,280060
+2024-12-01,Baterías de litio recargables,Comercial Caribe S.A.S.,144,Planta Medellín,276820
+2024-12-01,Baterías de litio recargables,Distribuciones Antioqueñas,106,Planta Medellín,269500
+2024-12-01,Baterías de litio recargables,Grupo Andino Retail,215,Planta Bogotá,272310
+2024-12-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,168,Planta Cali,275810
+2024-12-01,Bolsas biodegradables,Almacenes del Pacífico,460,Planta Medellín,62230
+2024-12-01,Bolsas biodegradables,Comercial Caribe S.A.S.,221,Planta Bucaramanga,62650
+2024-12-01,Bolsas biodegradables,Distribuciones Antioqueñas,393,Planta Medellín,60980
+2024-12-01,Bolsas biodegradables,Grupo Andino Retail,668,Planta Bogotá,60440
+2024-12-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,399,Planta Medellín,62240
+2024-12-01,Bombillos incandescentes,Almacenes del Pacífico,305,Planta Cali,71890
+2024-12-01,Bombillos incandescentes,Comercial Caribe S.A.S.,418,Planta Medellín,71100
+2024-12-01,Bombillos incandescentes,Distribuciones Antioqueñas,482,Planta Medellín,68580
+2024-12-01,Bombillos incandescentes,Grupo Andino Retail,379,Planta Bogotá,70450
+2024-12-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,164,Planta Cali,71320
+2024-12-01,Chocolatería de regalo,Almacenes del Pacífico,931,Planta Cali,96260
+2024-12-01,Chocolatería de regalo,Comercial Caribe S.A.S.,763,Planta Bucaramanga,94880
+2024-12-01,Chocolatería de regalo,Distribuciones Antioqueñas,687,Planta Medellín,91450
+2024-12-01,Chocolatería de regalo,Grupo Andino Retail,695,Planta Bogotá,93240
+2024-12-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,302,Planta Cali,94660
+2024-12-01,Cuadernos escolares,Almacenes del Pacífico,302,Planta Cali,71130
+2024-12-01,Cuadernos escolares,Comercial Caribe S.A.S.,359,Planta Medellín,70480
+2024-12-01,Cuadernos escolares,Distribuciones Antioqueñas,216,Planta Medellín,68730
+2024-12-01,Cuadernos escolares,Grupo Andino Retail,626,Planta Bogotá,68760
+2024-12-01,Cuadernos escolares,Mayoristas del Eje Cafetero,215,Planta Cali,71040
+2024-12-01,Envases plásticos tradicionales,Almacenes del Pacífico,846,Planta Cali,52740
+2024-12-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,593,Planta Bucaramanga,52410
+2024-12-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,507,Planta Medellín,50620
+2024-12-01,Envases plásticos tradicionales,Grupo Andino Retail,1214,Planta Bogotá,50770
+2024-12-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,183,Planta Cali,52540
+2024-12-01,Impermeables industriales,Almacenes del Pacífico,176,Planta Medellín,140470
+2024-12-01,Impermeables industriales,Comercial Caribe S.A.S.,185,Planta Bucaramanga,141000
+2024-12-01,Impermeables industriales,Distribuciones Antioqueñas,265,Planta Medellín,135130
+2024-12-01,Impermeables industriales,Grupo Andino Retail,249,Planta Bogotá,136970
+2024-12-01,Impermeables industriales,Mayoristas del Eje Cafetero,114,Planta Medellín,138740
+2024-12-01,Juguetes didácticos,Almacenes del Pacífico,359,Planta Medellín,135210
+2024-12-01,Juguetes didácticos,Comercial Caribe S.A.S.,474,Planta Bucaramanga,134850
+2024-12-01,Juguetes didácticos,Distribuciones Antioqueñas,624,Planta Medellín,130630
+2024-12-01,Juguetes didácticos,Grupo Andino Retail,878,Planta Bogotá,133310
+2024-12-01,Juguetes didácticos,Mayoristas del Eje Cafetero,465,Planta Medellín,133770
+2024-12-01,Paneles solares portátiles,Almacenes del Pacífico,92,Planta Cali,325180
+2024-12-01,Paneles solares portátiles,Comercial Caribe S.A.S.,99,Planta Bucaramanga,321040
+2024-12-01,Paneles solares portátiles,Distribuciones Antioqueñas,177,Planta Bogotá,310330
+2024-12-01,Paneles solares portátiles,Grupo Andino Retail,179,Planta Bogotá,313380
+2024-12-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,90,Planta Cali,320800
+2024-12-01,Ventiladores de torre,Almacenes del Pacífico,113,Planta Cali,201920
+2024-12-01,Ventiladores de torre,Comercial Caribe S.A.S.,173,Planta Bucaramanga,198680
+2024-12-01,Ventiladores de torre,Distribuciones Antioqueñas,128,Planta Bogotá,192670
+2024-12-01,Ventiladores de torre,Grupo Andino Retail,118,Planta Bogotá,196380
+2024-12-01,Ventiladores de torre,Mayoristas del Eje Cafetero,76,Planta Cali,198980
+2025-01-01,Baterías de litio recargables,Almacenes del Pacífico,109,Planta Cali,280420
+2025-01-01,Baterías de litio recargables,Comercial Caribe S.A.S.,154,Planta Medellín,278350
+2025-01-01,Baterías de litio recargables,Distribuciones Antioqueñas,114,Planta Medellín,268320
+2025-01-01,Baterías de litio recargables,Grupo Andino Retail,202,Planta Bogotá,269920
+2025-01-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,168,Planta Cali,280390
+2025-01-01,Bolsas biodegradables,Almacenes del Pacífico,475,Planta Medellín,62950
+2025-01-01,Bolsas biodegradables,Comercial Caribe S.A.S.,258,Planta Bucaramanga,62080
+2025-01-01,Bolsas biodegradables,Distribuciones Antioqueñas,397,Planta Medellín,60390
+2025-01-01,Bolsas biodegradables,Grupo Andino Retail,626,Planta Bogotá,61000
+2025-01-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,385,Planta Medellín,62510
+2025-01-01,Bombillos incandescentes,Almacenes del Pacífico,305,Planta Cali,72930
+2025-01-01,Bombillos incandescentes,Comercial Caribe S.A.S.,419,Planta Medellín,71530
+2025-01-01,Bombillos incandescentes,Distribuciones Antioqueñas,437,Planta Medellín,69710
+2025-01-01,Bombillos incandescentes,Grupo Andino Retail,433,Planta Bogotá,70070
+2025-01-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,152,Planta Cali,72170
+2025-01-01,Chocolatería de regalo,Almacenes del Pacífico,293,Planta Cali,96190
+2025-01-01,Chocolatería de regalo,Comercial Caribe S.A.S.,288,Planta Bucaramanga,94450
+2025-01-01,Chocolatería de regalo,Distribuciones Antioqueñas,247,Planta Medellín,91950
+2025-01-01,Chocolatería de regalo,Grupo Andino Retail,249,Planta Bogotá,92940
+2025-01-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,103,Planta Cali,95280
+2025-01-01,Cuadernos escolares,Almacenes del Pacífico,734,Planta Cali,72050
+2025-01-01,Cuadernos escolares,Comercial Caribe S.A.S.,934,Planta Medellín,71290
+2025-01-01,Cuadernos escolares,Distribuciones Antioqueñas,531,Planta Medellín,69310
+2025-01-01,Cuadernos escolares,Grupo Andino Retail,1662,Planta Bogotá,69720
+2025-01-01,Cuadernos escolares,Mayoristas del Eje Cafetero,476,Planta Cali,71040
+2025-01-01,Envases plásticos tradicionales,Almacenes del Pacífico,765,Planta Cali,52490
+2025-01-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,504,Planta Bucaramanga,52230
+2025-01-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,460,Planta Medellín,50630
+2025-01-01,Envases plásticos tradicionales,Grupo Andino Retail,1236,Planta Bogotá,50910
+2025-01-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,195,Planta Cali,52720
+2025-01-01,Impermeables industriales,Almacenes del Pacífico,115,Planta Medellín,142700
+2025-01-01,Impermeables industriales,Comercial Caribe S.A.S.,127,Planta Bucaramanga,139280
+2025-01-01,Impermeables industriales,Distribuciones Antioqueñas,154,Planta Medellín,137650
+2025-01-01,Impermeables industriales,Grupo Andino Retail,162,Planta Bogotá,136860
+2025-01-01,Impermeables industriales,Mayoristas del Eje Cafetero,78,Planta Medellín,140640
+2025-01-01,Juguetes didácticos,Almacenes del Pacífico,91,Planta Medellín,135810
+2025-01-01,Juguetes didácticos,Comercial Caribe S.A.S.,105,Planta Bucaramanga,133950
+2025-01-01,Juguetes didácticos,Distribuciones Antioqueñas,156,Planta Medellín,132110
+2025-01-01,Juguetes didácticos,Grupo Andino Retail,223,Planta Bogotá,133080
+2025-01-01,Juguetes didácticos,Mayoristas del Eje Cafetero,105,Planta Medellín,134180
+2025-01-01,Paneles solares portátiles,Almacenes del Pacífico,97,Planta Cali,324390
+2025-01-01,Paneles solares portátiles,Comercial Caribe S.A.S.,97,Planta Bucaramanga,322880
+2025-01-01,Paneles solares portátiles,Distribuciones Antioqueñas,174,Planta Bogotá,311720
+2025-01-01,Paneles solares portátiles,Grupo Andino Retail,189,Planta Bogotá,314550
+2025-01-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,93,Planta Cali,322820
+2025-01-01,Ventiladores de torre,Almacenes del Pacífico,248,Planta Cali,202240
+2025-01-01,Ventiladores de torre,Comercial Caribe S.A.S.,358,Planta Bucaramanga,200890
+2025-01-01,Ventiladores de torre,Distribuciones Antioqueñas,249,Planta Bogotá,191800
+2025-01-01,Ventiladores de torre,Grupo Andino Retail,254,Planta Bogotá,197130
+2025-01-01,Ventiladores de torre,Mayoristas del Eje Cafetero,147,Planta Cali,196910
+2025-02-01,Baterías de litio recargables,Almacenes del Pacífico,101,Planta Cali,281780
+2025-02-01,Baterías de litio recargables,Comercial Caribe S.A.S.,121,Planta Medellín,277610
+2025-02-01,Baterías de litio recargables,Distribuciones Antioqueñas,106,Planta Medellín,268110
+2025-02-01,Baterías de litio recargables,Grupo Andino Retail,223,Planta Bogotá,273080
+2025-02-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,153,Planta Cali,279400
+2025-02-01,Bolsas biodegradables,Almacenes del Pacífico,408,Planta Medellín,63430
+2025-02-01,Bolsas biodegradables,Comercial Caribe S.A.S.,269,Planta Bucaramanga,62640
+2025-02-01,Bolsas biodegradables,Distribuciones Antioqueñas,397,Planta Medellín,60670
+2025-02-01,Bolsas biodegradables,Grupo Andino Retail,532,Planta Bogotá,61420
+2025-02-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,419,Planta Medellín,62110
+2025-02-01,Bombillos incandescentes,Almacenes del Pacífico,273,Planta Cali,72560
+2025-02-01,Bombillos incandescentes,Comercial Caribe S.A.S.,396,Planta Medellín,71220
+2025-02-01,Bombillos incandescentes,Distribuciones Antioqueñas,461,Planta Medellín,69510
+2025-02-01,Bombillos incandescentes,Grupo Andino Retail,375,Planta Bogotá,70200
+2025-02-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,142,Planta Cali,71770
+2025-02-01,Chocolatería de regalo,Almacenes del Pacífico,618,Planta Cali,96460
+2025-02-01,Chocolatería de regalo,Comercial Caribe S.A.S.,572,Planta Bucaramanga,95410
+2025-02-01,Chocolatería de regalo,Distribuciones Antioqueñas,487,Planta Medellín,93460
+2025-02-01,Chocolatería de regalo,Grupo Andino Retail,538,Planta Bogotá,93550
+2025-02-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,240,Planta Cali,95410
+2025-02-01,Cuadernos escolares,Almacenes del Pacífico,685,Planta Cali,71920
+2025-02-01,Cuadernos escolares,Comercial Caribe S.A.S.,920,Planta Medellín,71540
+2025-02-01,Cuadernos escolares,Distribuciones Antioqueñas,501,Planta Medellín,69740
+2025-02-01,Cuadernos escolares,Grupo Andino Retail,1401,Planta Bogotá,69410
+2025-02-01,Cuadernos escolares,Mayoristas del Eje Cafetero,438,Planta Cali,71160
+2025-02-01,Envases plásticos tradicionales,Almacenes del Pacífico,760,Planta Cali,52810
+2025-02-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,531,Planta Bucaramanga,52190
+2025-02-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,448,Planta Medellín,51550
+2025-02-01,Envases plásticos tradicionales,Grupo Andino Retail,1218,Planta Bogotá,51700
+2025-02-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,161,Planta Cali,52690
+2025-02-01,Impermeables industriales,Almacenes del Pacífico,91,Planta Medellín,142480
+2025-02-01,Impermeables industriales,Comercial Caribe S.A.S.,100,Planta Bucaramanga,139270
+2025-02-01,Impermeables industriales,Distribuciones Antioqueñas,138,Planta Medellín,136490
+2025-02-01,Impermeables industriales,Grupo Andino Retail,146,Planta Bogotá,137880
+2025-02-01,Impermeables industriales,Mayoristas del Eje Cafetero,63,Planta Medellín,141890
+2025-02-01,Juguetes didácticos,Almacenes del Pacífico,101,Planta Medellín,137650
+2025-02-01,Juguetes didácticos,Comercial Caribe S.A.S.,127,Planta Bucaramanga,133790
+2025-02-01,Juguetes didácticos,Distribuciones Antioqueñas,178,Planta Medellín,131110
+2025-02-01,Juguetes didácticos,Grupo Andino Retail,258,Planta Bogotá,133050
+2025-02-01,Juguetes didácticos,Mayoristas del Eje Cafetero,135,Planta Medellín,135230
+2025-02-01,Paneles solares portátiles,Almacenes del Pacífico,111,Planta Cali,324810
+2025-02-01,Paneles solares portátiles,Comercial Caribe S.A.S.,119,Planta Bucaramanga,322020
+2025-02-01,Paneles solares portátiles,Distribuciones Antioqueñas,171,Planta Bogotá,314750
+2025-02-01,Paneles solares portátiles,Grupo Andino Retail,187,Planta Bogotá,316450
+2025-02-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,96,Planta Cali,322690
+2025-02-01,Ventiladores de torre,Almacenes del Pacífico,271,Planta Cali,204020
+2025-02-01,Ventiladores de torre,Comercial Caribe S.A.S.,390,Planta Bucaramanga,201630
+2025-02-01,Ventiladores de torre,Distribuciones Antioqueñas,296,Planta Bogotá,195470
+2025-02-01,Ventiladores de torre,Grupo Andino Retail,299,Planta Bogotá,197420
+2025-02-01,Ventiladores de torre,Mayoristas del Eje Cafetero,160,Planta Cali,201790
+2025-03-01,Baterías de litio recargables,Almacenes del Pacífico,126,Planta Cali,282220
+2025-03-01,Baterías de litio recargables,Comercial Caribe S.A.S.,149,Planta Medellín,279540
+2025-03-01,Baterías de litio recargables,Distribuciones Antioqueñas,117,Planta Medellín,270940
+2025-03-01,Baterías de litio recargables,Grupo Andino Retail,215,Planta Bogotá,274330
+2025-03-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,156,Planta Cali,279660
+2025-03-01,Bolsas biodegradables,Almacenes del Pacífico,526,Planta Medellín,63620
+2025-03-01,Bolsas biodegradables,Comercial Caribe S.A.S.,285,Planta Bucaramanga,62190
+2025-03-01,Bolsas biodegradables,Distribuciones Antioqueñas,438,Planta Medellín,60760
+2025-03-01,Bolsas biodegradables,Grupo Andino Retail,659,Planta Bogotá,61160
+2025-03-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,430,Planta Medellín,62770
+2025-03-01,Bombillos incandescentes,Almacenes del Pacífico,272,Planta Cali,72580
+2025-03-01,Bombillos incandescentes,Comercial Caribe S.A.S.,356,Planta Medellín,71850
+2025-03-01,Bombillos incandescentes,Distribuciones Antioqueñas,456,Planta Medellín,69880
+2025-03-01,Bombillos incandescentes,Grupo Andino Retail,396,Planta Bogotá,70500
+2025-03-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,149,Planta Cali,72200
+2025-03-01,Chocolatería de regalo,Almacenes del Pacífico,298,Planta Cali,97190
+2025-03-01,Chocolatería de regalo,Comercial Caribe S.A.S.,319,Planta Bucaramanga,96260
+2025-03-01,Chocolatería de regalo,Distribuciones Antioqueñas,244,Planta Medellín,93150
+2025-03-01,Chocolatería de regalo,Grupo Andino Retail,260,Planta Bogotá,93920
+2025-03-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,109,Planta Cali,95300
+2025-03-01,Cuadernos escolares,Almacenes del Pacífico,351,Planta Cali,71850
+2025-03-01,Cuadernos escolares,Comercial Caribe S.A.S.,448,Planta Medellín,71720
+2025-03-01,Cuadernos escolares,Distribuciones Antioqueñas,262,Planta Medellín,69060
+2025-03-01,Cuadernos escolares,Grupo Andino Retail,774,Planta Bogotá,70010
+2025-03-01,Cuadernos escolares,Mayoristas del Eje Cafetero,273,Planta Cali,71860
+2025-03-01,Envases plásticos tradicionales,Almacenes del Pacífico,824,Planta Cali,53440
+2025-03-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,519,Planta Bucaramanga,52660
+2025-03-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,473,Planta Medellín,50960
+2025-03-01,Envases plásticos tradicionales,Grupo Andino Retail,1151,Planta Bogotá,51560
+2025-03-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,162,Planta Cali,52720
+2025-03-01,Impermeables industriales,Almacenes del Pacífico,170,Planta Medellín,143270
+2025-03-01,Impermeables industriales,Comercial Caribe S.A.S.,192,Planta Bucaramanga,141640
+2025-03-01,Impermeables industriales,Distribuciones Antioqueñas,236,Planta Medellín,137520
+2025-03-01,Impermeables industriales,Grupo Andino Retail,272,Planta Bogotá,139250
+2025-03-01,Impermeables industriales,Mayoristas del Eje Cafetero,101,Planta Medellín,140370
+2025-03-01,Juguetes didácticos,Almacenes del Pacífico,83,Planta Medellín,135610
+2025-03-01,Juguetes didácticos,Comercial Caribe S.A.S.,115,Planta Bucaramanga,136420
+2025-03-01,Juguetes didácticos,Distribuciones Antioqueñas,147,Planta Medellín,131150
+2025-03-01,Juguetes didácticos,Grupo Andino Retail,220,Planta Bogotá,133080
+2025-03-01,Juguetes didácticos,Mayoristas del Eje Cafetero,131,Planta Medellín,135740
+2025-03-01,Paneles solares portátiles,Almacenes del Pacífico,98,Planta Cali,328180
+2025-03-01,Paneles solares portátiles,Comercial Caribe S.A.S.,105,Planta Bucaramanga,321080
+2025-03-01,Paneles solares portátiles,Distribuciones Antioqueñas,168,Planta Bogotá,316410
+2025-03-01,Paneles solares portátiles,Grupo Andino Retail,184,Planta Bogotá,318860
+2025-03-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,108,Planta Cali,324960
+2025-03-01,Ventiladores de torre,Almacenes del Pacífico,352,Planta Cali,204460
+2025-03-01,Ventiladores de torre,Comercial Caribe S.A.S.,442,Planta Bucaramanga,200900
+2025-03-01,Ventiladores de torre,Distribuciones Antioqueñas,298,Planta Bogotá,194780
+2025-03-01,Ventiladores de torre,Grupo Andino Retail,311,Planta Bogotá,197950
+2025-03-01,Ventiladores de torre,Mayoristas del Eje Cafetero,187,Planta Cali,201830
+2025-04-01,Baterías de litio recargables,Almacenes del Pacífico,137,Planta Cali,282490
+2025-04-01,Baterías de litio recargables,Comercial Caribe S.A.S.,155,Planta Medellín,282040
+2025-04-01,Baterías de litio recargables,Distribuciones Antioqueñas,97,Planta Medellín,271770
+2025-04-01,Baterías de litio recargables,Grupo Andino Retail,270,Planta Bogotá,276460
+2025-04-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,174,Planta Cali,278000
+2025-04-01,Bolsas biodegradables,Almacenes del Pacífico,506,Planta Medellín,63590
+2025-04-01,Bolsas biodegradables,Comercial Caribe S.A.S.,249,Planta Bucaramanga,62780
+2025-04-01,Bolsas biodegradables,Distribuciones Antioqueñas,471,Planta Medellín,61110
+2025-04-01,Bolsas biodegradables,Grupo Andino Retail,612,Planta Bogotá,61140
+2025-04-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,426,Planta Medellín,63100
+2025-04-01,Bombillos incandescentes,Almacenes del Pacífico,282,Planta Cali,73560
+2025-04-01,Bombillos incandescentes,Comercial Caribe S.A.S.,389,Planta Medellín,72130
+2025-04-01,Bombillos incandescentes,Distribuciones Antioqueñas,434,Planta Medellín,70410
+2025-04-01,Bombillos incandescentes,Grupo Andino Retail,350,Planta Bogotá,71250
+2025-04-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,142,Planta Cali,72460
+2025-04-01,Chocolatería de regalo,Almacenes del Pacífico,296,Planta Cali,96820
+2025-04-01,Chocolatería de regalo,Comercial Caribe S.A.S.,288,Planta Bucaramanga,96330
+2025-04-01,Chocolatería de regalo,Distribuciones Antioqueñas,244,Planta Medellín,93360
+2025-04-01,Chocolatería de regalo,Grupo Andino Retail,261,Planta Bogotá,94490
+2025-04-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,109,Planta Cali,95450
+2025-04-01,Cuadernos escolares,Almacenes del Pacífico,272,Planta Cali,72540
+2025-04-01,Cuadernos escolares,Comercial Caribe S.A.S.,367,Planta Medellín,72000
+2025-04-01,Cuadernos escolares,Distribuciones Antioqueñas,185,Planta Medellín,70340
+2025-04-01,Cuadernos escolares,Grupo Andino Retail,609,Planta Bogotá,70490
+2025-04-01,Cuadernos escolares,Mayoristas del Eje Cafetero,187,Planta Cali,71550
+2025-04-01,Envases plásticos tradicionales,Almacenes del Pacífico,762,Planta Cali,53780
+2025-04-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,554,Planta Bucaramanga,53190
+2025-04-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,464,Planta Medellín,51020
+2025-04-01,Envases plásticos tradicionales,Grupo Andino Retail,1150,Planta Bogotá,51070
+2025-04-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,154,Planta Cali,52700
+2025-04-01,Impermeables industriales,Almacenes del Pacífico,292,Planta Medellín,144820
+2025-04-01,Impermeables industriales,Comercial Caribe S.A.S.,317,Planta Bucaramanga,143110
+2025-04-01,Impermeables industriales,Distribuciones Antioqueñas,395,Planta Medellín,137590
+2025-04-01,Impermeables industriales,Grupo Andino Retail,453,Planta Bogotá,139660
+2025-04-01,Impermeables industriales,Mayoristas del Eje Cafetero,193,Planta Medellín,142330
+2025-04-01,Juguetes didácticos,Almacenes del Pacífico,130,Planta Medellín,139570
+2025-04-01,Juguetes didácticos,Comercial Caribe S.A.S.,158,Planta Bucaramanga,136590
+2025-04-01,Juguetes didácticos,Distribuciones Antioqueñas,190,Planta Medellín,131770
+2025-04-01,Juguetes didácticos,Grupo Andino Retail,281,Planta Bogotá,134010
+2025-04-01,Juguetes didácticos,Mayoristas del Eje Cafetero,154,Planta Medellín,136410
+2025-04-01,Paneles solares portátiles,Almacenes del Pacífico,109,Planta Cali,329960
+2025-04-01,Paneles solares portátiles,Comercial Caribe S.A.S.,114,Planta Bucaramanga,324930
+2025-04-01,Paneles solares portátiles,Distribuciones Antioqueñas,165,Planta Bogotá,316570
+2025-04-01,Paneles solares portátiles,Grupo Andino Retail,202,Planta Bogotá,319220
+2025-04-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,83,Planta Cali,324250
+2025-04-01,Ventiladores de torre,Almacenes del Pacífico,248,Planta Cali,205140
+2025-04-01,Ventiladores de torre,Comercial Caribe S.A.S.,379,Planta Bucaramanga,202380
+2025-04-01,Ventiladores de torre,Distribuciones Antioqueñas,256,Planta Bogotá,195260
+2025-04-01,Ventiladores de torre,Grupo Andino Retail,287,Planta Bogotá,197650
+2025-04-01,Ventiladores de torre,Mayoristas del Eje Cafetero,149,Planta Cali,203730
+2025-05-01,Baterías de litio recargables,Almacenes del Pacífico,126,Planta Cali,284830
+2025-05-01,Baterías de litio recargables,Comercial Caribe S.A.S.,159,Planta Medellín,281750
+2025-05-01,Baterías de litio recargables,Distribuciones Antioqueñas,111,Planta Medellín,275750
+2025-05-01,Baterías de litio recargables,Grupo Andino Retail,246,Planta Bogotá,277580
+2025-05-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,187,Planta Cali,281520
+2025-05-01,Bolsas biodegradables,Almacenes del Pacífico,412,Planta Medellín,63220
+2025-05-01,Bolsas biodegradables,Comercial Caribe S.A.S.,221,Planta Bucaramanga,63520
+2025-05-01,Bolsas biodegradables,Distribuciones Antioqueñas,432,Planta Medellín,61010
+2025-05-01,Bolsas biodegradables,Grupo Andino Retail,565,Planta Bogotá,62240
+2025-05-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,429,Planta Medellín,63380
+2025-05-01,Bombillos incandescentes,Almacenes del Pacífico,313,Planta Cali,73530
+2025-05-01,Bombillos incandescentes,Comercial Caribe S.A.S.,399,Planta Medellín,72530
+2025-05-01,Bombillos incandescentes,Distribuciones Antioqueñas,405,Planta Medellín,70470
+2025-05-01,Bombillos incandescentes,Grupo Andino Retail,341,Planta Bogotá,71170
+2025-05-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,142,Planta Cali,72060
+2025-05-01,Chocolatería de regalo,Almacenes del Pacífico,621,Planta Cali,97870
+2025-05-01,Chocolatería de regalo,Comercial Caribe S.A.S.,620,Planta Bucaramanga,96500
+2025-05-01,Chocolatería de regalo,Distribuciones Antioqueñas,530,Planta Medellín,93910
+2025-05-01,Chocolatería de regalo,Grupo Andino Retail,486,Planta Bogotá,94980
+2025-05-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,225,Planta Cali,96710
+2025-05-01,Cuadernos escolares,Almacenes del Pacífico,240,Planta Cali,72730
+2025-05-01,Cuadernos escolares,Comercial Caribe S.A.S.,329,Planta Medellín,72290
+2025-05-01,Cuadernos escolares,Distribuciones Antioqueñas,191,Planta Medellín,69980
+2025-05-01,Cuadernos escolares,Grupo Andino Retail,565,Planta Bogotá,70680
+2025-05-01,Cuadernos escolares,Mayoristas del Eje Cafetero,168,Planta Cali,71770
+2025-05-01,Envases plásticos tradicionales,Almacenes del Pacífico,832,Planta Cali,53680
+2025-05-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,495,Planta Bucaramanga,53020
+2025-05-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,490,Planta Medellín,51320
+2025-05-01,Envases plásticos tradicionales,Grupo Andino Retail,1127,Planta Bogotá,51990
+2025-05-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,159,Planta Cali,53320
+2025-05-01,Impermeables industriales,Almacenes del Pacífico,329,Planta Medellín,143390
+2025-05-01,Impermeables industriales,Comercial Caribe S.A.S.,373,Planta Bucaramanga,142790
+2025-05-01,Impermeables industriales,Distribuciones Antioqueñas,413,Planta Medellín,137510
+2025-05-01,Impermeables industriales,Grupo Andino Retail,521,Planta Bogotá,139300
+2025-05-01,Impermeables industriales,Mayoristas del Eje Cafetero,205,Planta Medellín,142580
+2025-05-01,Juguetes didácticos,Almacenes del Pacífico,116,Planta Medellín,137030
+2025-05-01,Juguetes didácticos,Comercial Caribe S.A.S.,171,Planta Bucaramanga,137910
+2025-05-01,Juguetes didácticos,Distribuciones Antioqueñas,205,Planta Medellín,133110
+2025-05-01,Juguetes didácticos,Grupo Andino Retail,280,Planta Bogotá,134710
+2025-05-01,Juguetes didácticos,Mayoristas del Eje Cafetero,175,Planta Medellín,136330
+2025-05-01,Paneles solares portátiles,Almacenes del Pacífico,115,Planta Cali,330790
+2025-05-01,Paneles solares portátiles,Comercial Caribe S.A.S.,105,Planta Bucaramanga,327930
+2025-05-01,Paneles solares portátiles,Distribuciones Antioqueñas,192,Planta Bogotá,318420
+2025-05-01,Paneles solares portátiles,Grupo Andino Retail,196,Planta Bogotá,321920
+2025-05-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,86,Planta Cali,327210
+2025-05-01,Ventiladores de torre,Almacenes del Pacífico,187,Planta Cali,203470
+2025-05-01,Ventiladores de torre,Comercial Caribe S.A.S.,243,Planta Bucaramanga,204580
+2025-05-01,Ventiladores de torre,Distribuciones Antioqueñas,184,Planta Bogotá,194940
+2025-05-01,Ventiladores de torre,Grupo Andino Retail,190,Planta Bogotá,199580
+2025-05-01,Ventiladores de torre,Mayoristas del Eje Cafetero,108,Planta Cali,203380
+2025-06-01,Baterías de litio recargables,Almacenes del Pacífico,125,Planta Cali,285850
+2025-06-01,Baterías de litio recargables,Comercial Caribe S.A.S.,135,Planta Medellín,282540
+2025-06-01,Baterías de litio recargables,Distribuciones Antioqueñas,106,Planta Medellín,272710
+2025-06-01,Baterías de litio recargables,Grupo Andino Retail,257,Planta Bogotá,277260
+2025-06-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,158,Planta Cali,284370
+2025-06-01,Bolsas biodegradables,Almacenes del Pacífico,480,Planta Medellín,63880
+2025-06-01,Bolsas biodegradables,Comercial Caribe S.A.S.,255,Planta Bucaramanga,63670
+2025-06-01,Bolsas biodegradables,Distribuciones Antioqueñas,441,Planta Medellín,61490
+2025-06-01,Bolsas biodegradables,Grupo Andino Retail,607,Planta Bogotá,61820
+2025-06-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,466,Planta Medellín,63410
+2025-06-01,Bombillos incandescentes,Almacenes del Pacífico,266,Planta Cali,74570
+2025-06-01,Bombillos incandescentes,Comercial Caribe S.A.S.,350,Planta Medellín,72830
+2025-06-01,Bombillos incandescentes,Distribuciones Antioqueñas,409,Planta Medellín,70180
+2025-06-01,Bombillos incandescentes,Grupo Andino Retail,309,Planta Bogotá,71720
+2025-06-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,141,Planta Cali,72530
+2025-06-01,Chocolatería de regalo,Almacenes del Pacífico,340,Planta Cali,98120
+2025-06-01,Chocolatería de regalo,Comercial Caribe S.A.S.,309,Planta Bucaramanga,96910
+2025-06-01,Chocolatería de regalo,Distribuciones Antioqueñas,303,Planta Medellín,94850
+2025-06-01,Chocolatería de regalo,Grupo Andino Retail,277,Planta Bogotá,94360
+2025-06-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,137,Planta Cali,98350
+2025-06-01,Cuadernos escolares,Almacenes del Pacífico,285,Planta Cali,73590
+2025-06-01,Cuadernos escolares,Comercial Caribe S.A.S.,380,Planta Medellín,72520
+2025-06-01,Cuadernos escolares,Distribuciones Antioqueñas,198,Planta Medellín,70830
+2025-06-01,Cuadernos escolares,Grupo Andino Retail,566,Planta Bogotá,71110
+2025-06-01,Cuadernos escolares,Mayoristas del Eje Cafetero,188,Planta Cali,72610
+2025-06-01,Envases plásticos tradicionales,Almacenes del Pacífico,706,Planta Cali,54250
+2025-06-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,522,Planta Bucaramanga,53140
+2025-06-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,452,Planta Medellín,51970
+2025-06-01,Envases plásticos tradicionales,Grupo Andino Retail,1084,Planta Bogotá,52410
+2025-06-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,173,Planta Cali,53370
+2025-06-01,Impermeables industriales,Almacenes del Pacífico,167,Planta Medellín,144350
+2025-06-01,Impermeables industriales,Comercial Caribe S.A.S.,152,Planta Bucaramanga,143920
+2025-06-01,Impermeables industriales,Distribuciones Antioqueñas,210,Planta Medellín,139490
+2025-06-01,Impermeables industriales,Grupo Andino Retail,237,Planta Bogotá,141410
+2025-06-01,Impermeables industriales,Mayoristas del Eje Cafetero,106,Planta Medellín,144150
+2025-06-01,Juguetes didácticos,Almacenes del Pacífico,102,Planta Medellín,138720
+2025-06-01,Juguetes didácticos,Comercial Caribe S.A.S.,140,Planta Bucaramanga,138480
+2025-06-01,Juguetes didácticos,Distribuciones Antioqueñas,181,Planta Medellín,132910
+2025-06-01,Juguetes didácticos,Grupo Andino Retail,276,Planta Bogotá,135040
+2025-06-01,Juguetes didácticos,Mayoristas del Eje Cafetero,136,Planta Medellín,137930
+2025-06-01,Paneles solares portátiles,Almacenes del Pacífico,114,Planta Cali,331350
+2025-06-01,Paneles solares portátiles,Comercial Caribe S.A.S.,117,Planta Bucaramanga,326730
+2025-06-01,Paneles solares portátiles,Distribuciones Antioqueñas,209,Planta Bogotá,317420
+2025-06-01,Paneles solares portátiles,Grupo Andino Retail,203,Planta Bogotá,321430
+2025-06-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,99,Planta Cali,327720
+2025-06-01,Ventiladores de torre,Almacenes del Pacífico,128,Planta Cali,206310
+2025-06-01,Ventiladores de torre,Comercial Caribe S.A.S.,145,Planta Bucaramanga,202450
+2025-06-01,Ventiladores de torre,Distribuciones Antioqueñas,133,Planta Bogotá,198520
+2025-06-01,Ventiladores de torre,Grupo Andino Retail,125,Planta Bogotá,198690
+2025-06-01,Ventiladores de torre,Mayoristas del Eje Cafetero,87,Planta Cali,205440
+2025-07-01,Baterías de litio recargables,Almacenes del Pacífico,128,Planta Cali,288380
+2025-07-01,Baterías de litio recargables,Comercial Caribe S.A.S.,161,Planta Medellín,282770
+2025-07-01,Baterías de litio recargables,Distribuciones Antioqueñas,131,Planta Medellín,277660
+2025-07-01,Baterías de litio recargables,Grupo Andino Retail,202,Planta Bogotá,278370
+2025-07-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,207,Planta Cali,286440
+2025-07-01,Bolsas biodegradables,Almacenes del Pacífico,446,Planta Medellín,64300
+2025-07-01,Bolsas biodegradables,Comercial Caribe S.A.S.,306,Planta Bucaramanga,63570
+2025-07-01,Bolsas biodegradables,Distribuciones Antioqueñas,415,Planta Medellín,61540
+2025-07-01,Bolsas biodegradables,Grupo Andino Retail,645,Planta Bogotá,62250
+2025-07-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,444,Planta Medellín,63740
+2025-07-01,Bombillos incandescentes,Almacenes del Pacífico,260,Planta Cali,73740
+2025-07-01,Bombillos incandescentes,Comercial Caribe S.A.S.,375,Planta Medellín,73340
+2025-07-01,Bombillos incandescentes,Distribuciones Antioqueñas,384,Planta Medellín,71580
+2025-07-01,Bombillos incandescentes,Grupo Andino Retail,388,Planta Bogotá,72010
+2025-07-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,122,Planta Cali,73270
+2025-07-01,Chocolatería de regalo,Almacenes del Pacífico,310,Planta Cali,98160
+2025-07-01,Chocolatería de regalo,Comercial Caribe S.A.S.,277,Planta Bucaramanga,96760
+2025-07-01,Chocolatería de regalo,Distribuciones Antioqueñas,253,Planta Medellín,94730
+2025-07-01,Chocolatería de regalo,Grupo Andino Retail,257,Planta Bogotá,95460
+2025-07-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,108,Planta Cali,98070
+2025-07-01,Cuadernos escolares,Almacenes del Pacífico,400,Planta Cali,73640
+2025-07-01,Cuadernos escolares,Comercial Caribe S.A.S.,532,Planta Medellín,73020
+2025-07-01,Cuadernos escolares,Distribuciones Antioqueñas,271,Planta Medellín,70290
+2025-07-01,Cuadernos escolares,Grupo Andino Retail,874,Planta Bogotá,71810
+2025-07-01,Cuadernos escolares,Mayoristas del Eje Cafetero,300,Planta Cali,73010
+2025-07-01,Envases plásticos tradicionales,Almacenes del Pacífico,735,Planta Cali,54070
+2025-07-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,512,Planta Bucaramanga,53480
+2025-07-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,442,Planta Medellín,51930
+2025-07-01,Envases plásticos tradicionales,Grupo Andino Retail,1067,Planta Bogotá,52140
+2025-07-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,146,Planta Cali,53420
+2025-07-01,Impermeables industriales,Almacenes del Pacífico,97,Planta Medellín,145720
+2025-07-01,Impermeables industriales,Comercial Caribe S.A.S.,113,Planta Bucaramanga,144280
+2025-07-01,Impermeables industriales,Distribuciones Antioqueñas,129,Planta Medellín,138600
+2025-07-01,Impermeables industriales,Grupo Andino Retail,161,Planta Bogotá,140170
+2025-07-01,Impermeables industriales,Mayoristas del Eje Cafetero,66,Planta Medellín,143870
+2025-07-01,Juguetes didácticos,Almacenes del Pacífico,118,Planta Medellín,138700
+2025-07-01,Juguetes didácticos,Comercial Caribe S.A.S.,162,Planta Bucaramanga,137520
+2025-07-01,Juguetes didácticos,Distribuciones Antioqueñas,217,Planta Medellín,134450
+2025-07-01,Juguetes didácticos,Grupo Andino Retail,292,Planta Bogotá,135640
+2025-07-01,Juguetes didácticos,Mayoristas del Eje Cafetero,163,Planta Medellín,138540
+2025-07-01,Paneles solares portátiles,Almacenes del Pacífico,113,Planta Cali,333290
+2025-07-01,Paneles solares portátiles,Comercial Caribe S.A.S.,118,Planta Bucaramanga,331570
+2025-07-01,Paneles solares portátiles,Distribuciones Antioqueñas,169,Planta Bogotá,318320
+2025-07-01,Paneles solares portátiles,Grupo Andino Retail,212,Planta Bogotá,325950
+2025-07-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,116,Planta Cali,330710
+2025-07-01,Ventiladores de torre,Almacenes del Pacífico,114,Planta Cali,206940
+2025-07-01,Ventiladores de torre,Comercial Caribe S.A.S.,136,Planta Bucaramanga,204340
+2025-07-01,Ventiladores de torre,Distribuciones Antioqueñas,109,Planta Bogotá,196100
+2025-07-01,Ventiladores de torre,Grupo Andino Retail,103,Planta Bogotá,200700
+2025-07-01,Ventiladores de torre,Mayoristas del Eje Cafetero,64,Planta Cali,204100
+2025-08-01,Baterías de litio recargables,Almacenes del Pacífico,142,Planta Cali,288310
+2025-08-01,Baterías de litio recargables,Comercial Caribe S.A.S.,166,Planta Medellín,286750
+2025-08-01,Baterías de litio recargables,Distribuciones Antioqueñas,117,Planta Medellín,276020
+2025-08-01,Baterías de litio recargables,Grupo Andino Retail,253,Planta Bogotá,278390
+2025-08-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,195,Planta Cali,285520
+2025-08-01,Bolsas biodegradables,Almacenes del Pacífico,503,Planta Medellín,64110
+2025-08-01,Bolsas biodegradables,Comercial Caribe S.A.S.,258,Planta Bucaramanga,63980
+2025-08-01,Bolsas biodegradables,Distribuciones Antioqueñas,521,Planta Medellín,61940
+2025-08-01,Bolsas biodegradables,Grupo Andino Retail,621,Planta Bogotá,62890
+2025-08-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,481,Planta Medellín,64600
+2025-08-01,Bombillos incandescentes,Almacenes del Pacífico,231,Planta Cali,74760
+2025-08-01,Bombillos incandescentes,Comercial Caribe S.A.S.,409,Planta Medellín,73270
+2025-08-01,Bombillos incandescentes,Distribuciones Antioqueñas,414,Planta Medellín,70830
+2025-08-01,Bombillos incandescentes,Grupo Andino Retail,369,Planta Bogotá,71740
+2025-08-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,141,Planta Cali,73700
+2025-08-01,Chocolatería de regalo,Almacenes del Pacífico,357,Planta Cali,98930
+2025-08-01,Chocolatería de regalo,Comercial Caribe S.A.S.,342,Planta Bucaramanga,97950
+2025-08-01,Chocolatería de regalo,Distribuciones Antioqueñas,265,Planta Medellín,94790
+2025-08-01,Chocolatería de regalo,Grupo Andino Retail,283,Planta Bogotá,96200
+2025-08-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,130,Planta Cali,97690
+2025-08-01,Cuadernos escolares,Almacenes del Pacífico,638,Planta Cali,73810
+2025-08-01,Cuadernos escolares,Comercial Caribe S.A.S.,765,Planta Medellín,72960
+2025-08-01,Cuadernos escolares,Distribuciones Antioqueñas,483,Planta Medellín,70740
+2025-08-01,Cuadernos escolares,Grupo Andino Retail,1453,Planta Bogotá,71740
+2025-08-01,Cuadernos escolares,Mayoristas del Eje Cafetero,387,Planta Cali,73190
+2025-08-01,Envases plásticos tradicionales,Almacenes del Pacífico,710,Planta Cali,54020
+2025-08-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,452,Planta Bucaramanga,53460
+2025-08-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,425,Planta Medellín,52090
+2025-08-01,Envases plásticos tradicionales,Grupo Andino Retail,1046,Planta Bogotá,52660
+2025-08-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,151,Planta Cali,53950
+2025-08-01,Impermeables industriales,Almacenes del Pacífico,98,Planta Medellín,146730
+2025-08-01,Impermeables industriales,Comercial Caribe S.A.S.,116,Planta Bucaramanga,143790
+2025-08-01,Impermeables industriales,Distribuciones Antioqueñas,138,Planta Medellín,140550
+2025-08-01,Impermeables industriales,Grupo Andino Retail,147,Planta Bogotá,142700
+2025-08-01,Impermeables industriales,Mayoristas del Eje Cafetero,56,Planta Medellín,145190
+2025-08-01,Juguetes didácticos,Almacenes del Pacífico,108,Planta Medellín,140400
+2025-08-01,Juguetes didácticos,Comercial Caribe S.A.S.,136,Planta Bucaramanga,137620
+2025-08-01,Juguetes didácticos,Distribuciones Antioqueñas,179,Planta Medellín,134050
+2025-08-01,Juguetes didácticos,Grupo Andino Retail,255,Planta Bogotá,136510
+2025-08-01,Juguetes didácticos,Mayoristas del Eje Cafetero,145,Planta Medellín,139140
+2025-08-01,Paneles solares portátiles,Almacenes del Pacífico,116,Planta Cali,335730
+2025-08-01,Paneles solares portátiles,Comercial Caribe S.A.S.,131,Planta Bucaramanga,330910
+2025-08-01,Paneles solares portátiles,Distribuciones Antioqueñas,200,Planta Bogotá,321990
+2025-08-01,Paneles solares portátiles,Grupo Andino Retail,194,Planta Bogotá,325750
+2025-08-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,109,Planta Cali,329590
+2025-08-01,Ventiladores de torre,Almacenes del Pacífico,112,Planta Cali,209110
+2025-08-01,Ventiladores de torre,Comercial Caribe S.A.S.,144,Planta Bucaramanga,203980
+2025-08-01,Ventiladores de torre,Distribuciones Antioqueñas,104,Planta Bogotá,200590
+2025-08-01,Ventiladores de torre,Grupo Andino Retail,113,Planta Bogotá,200620
+2025-08-01,Ventiladores de torre,Mayoristas del Eje Cafetero,64,Planta Cali,206050
+2025-09-01,Baterías de litio recargables,Almacenes del Pacífico,139,Planta Cali,288450
+2025-09-01,Baterías de litio recargables,Comercial Caribe S.A.S.,163,Planta Medellín,282210
+2025-09-01,Baterías de litio recargables,Distribuciones Antioqueñas,131,Planta Medellín,274760
+2025-09-01,Baterías de litio recargables,Grupo Andino Retail,240,Planta Bogotá,279890
+2025-09-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,211,Planta Cali,289010
+2025-09-01,Bolsas biodegradables,Almacenes del Pacífico,473,Planta Medellín,65330
+2025-09-01,Bolsas biodegradables,Comercial Caribe S.A.S.,287,Planta Bucaramanga,64020
+2025-09-01,Bolsas biodegradables,Distribuciones Antioqueñas,399,Planta Medellín,62050
+2025-09-01,Bolsas biodegradables,Grupo Andino Retail,597,Planta Bogotá,62630
+2025-09-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,499,Planta Medellín,64510
+2025-09-01,Bombillos incandescentes,Almacenes del Pacífico,276,Planta Cali,75440
+2025-09-01,Bombillos incandescentes,Comercial Caribe S.A.S.,353,Planta Medellín,73960
+2025-09-01,Bombillos incandescentes,Distribuciones Antioqueñas,353,Planta Medellín,71550
+2025-09-01,Bombillos incandescentes,Grupo Andino Retail,334,Planta Bogotá,71990
+2025-09-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,139,Planta Cali,73090
+2025-09-01,Chocolatería de regalo,Almacenes del Pacífico,555,Planta Cali,99850
+2025-09-01,Chocolatería de regalo,Comercial Caribe S.A.S.,520,Planta Bucaramanga,98090
+2025-09-01,Chocolatería de regalo,Distribuciones Antioqueñas,527,Planta Medellín,95620
+2025-09-01,Chocolatería de regalo,Grupo Andino Retail,476,Planta Bogotá,95990
+2025-09-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,230,Planta Cali,98180
+2025-09-01,Cuadernos escolares,Almacenes del Pacífico,457,Planta Cali,74220
+2025-09-01,Cuadernos escolares,Comercial Caribe S.A.S.,613,Planta Medellín,73130
+2025-09-01,Cuadernos escolares,Distribuciones Antioqueñas,349,Planta Medellín,71110
+2025-09-01,Cuadernos escolares,Grupo Andino Retail,1131,Planta Bogotá,71470
+2025-09-01,Cuadernos escolares,Mayoristas del Eje Cafetero,339,Planta Cali,73520
+2025-09-01,Envases plásticos tradicionales,Almacenes del Pacífico,643,Planta Cali,54650
+2025-09-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,526,Planta Bucaramanga,53890
+2025-09-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,401,Planta Medellín,52200
+2025-09-01,Envases plásticos tradicionales,Grupo Andino Retail,1050,Planta Bogotá,52900
+2025-09-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,170,Planta Cali,54220
+2025-09-01,Impermeables industriales,Almacenes del Pacífico,173,Planta Medellín,146210
+2025-09-01,Impermeables industriales,Comercial Caribe S.A.S.,221,Planta Bucaramanga,144510
+2025-09-01,Impermeables industriales,Distribuciones Antioqueñas,225,Planta Medellín,140660
+2025-09-01,Impermeables industriales,Grupo Andino Retail,278,Planta Bogotá,142440
+2025-09-01,Impermeables industriales,Mayoristas del Eje Cafetero,124,Planta Medellín,145680
+2025-09-01,Juguetes didácticos,Almacenes del Pacífico,123,Planta Medellín,141090
+2025-09-01,Juguetes didácticos,Comercial Caribe S.A.S.,173,Planta Bucaramanga,138950
+2025-09-01,Juguetes didácticos,Distribuciones Antioqueñas,241,Planta Medellín,135150
+2025-09-01,Juguetes didácticos,Grupo Andino Retail,298,Planta Bogotá,136190
+2025-09-01,Juguetes didácticos,Mayoristas del Eje Cafetero,175,Planta Medellín,139200
+2025-09-01,Paneles solares portátiles,Almacenes del Pacífico,121,Planta Cali,335850
+2025-09-01,Paneles solares portátiles,Comercial Caribe S.A.S.,133,Planta Bucaramanga,330520
+2025-09-01,Paneles solares portátiles,Distribuciones Antioqueñas,196,Planta Bogotá,320670
+2025-09-01,Paneles solares portátiles,Grupo Andino Retail,190,Planta Bogotá,326160
+2025-09-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,98,Planta Cali,332510
+2025-09-01,Ventiladores de torre,Almacenes del Pacífico,138,Planta Cali,205430
+2025-09-01,Ventiladores de torre,Comercial Caribe S.A.S.,161,Planta Bucaramanga,205460
+2025-09-01,Ventiladores de torre,Distribuciones Antioqueñas,108,Planta Bogotá,199810
+2025-09-01,Ventiladores de torre,Grupo Andino Retail,130,Planta Bogotá,202800
+2025-09-01,Ventiladores de torre,Mayoristas del Eje Cafetero,76,Planta Cali,205940
+2025-10-01,Baterías de litio recargables,Almacenes del Pacífico,140,Planta Cali,289510
+2025-10-01,Baterías de litio recargables,Comercial Caribe S.A.S.,149,Planta Medellín,290460
+2025-10-01,Baterías de litio recargables,Distribuciones Antioqueñas,111,Planta Medellín,278720
+2025-10-01,Baterías de litio recargables,Grupo Andino Retail,272,Planta Bogotá,283040
+2025-10-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,211,Planta Cali,286390
+2025-10-01,Bolsas biodegradables,Almacenes del Pacífico,456,Planta Medellín,65380
+2025-10-01,Bolsas biodegradables,Comercial Caribe S.A.S.,260,Planta Bucaramanga,64800
+2025-10-01,Bolsas biodegradables,Distribuciones Antioqueñas,447,Planta Medellín,62690
+2025-10-01,Bolsas biodegradables,Grupo Andino Retail,664,Planta Bogotá,63470
+2025-10-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,576,Planta Medellín,64620
+2025-10-01,Bombillos incandescentes,Almacenes del Pacífico,228,Planta Cali,75390
+2025-10-01,Bombillos incandescentes,Comercial Caribe S.A.S.,347,Planta Medellín,73920
+2025-10-01,Bombillos incandescentes,Distribuciones Antioqueñas,430,Planta Medellín,71810
+2025-10-01,Bombillos incandescentes,Grupo Andino Retail,317,Planta Bogotá,72900
+2025-10-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,118,Planta Cali,74830
+2025-10-01,Chocolatería de regalo,Almacenes del Pacífico,374,Planta Cali,98710
+2025-10-01,Chocolatería de regalo,Comercial Caribe S.A.S.,397,Planta Bucaramanga,99070
+2025-10-01,Chocolatería de regalo,Distribuciones Antioqueñas,325,Planta Medellín,96010
+2025-10-01,Chocolatería de regalo,Grupo Andino Retail,322,Planta Bogotá,96550
+2025-10-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,145,Planta Cali,98340
+2025-10-01,Cuadernos escolares,Almacenes del Pacífico,278,Planta Cali,75180
+2025-10-01,Cuadernos escolares,Comercial Caribe S.A.S.,362,Planta Medellín,74210
+2025-10-01,Cuadernos escolares,Distribuciones Antioqueñas,208,Planta Medellín,71960
+2025-10-01,Cuadernos escolares,Grupo Andino Retail,584,Planta Bogotá,71850
+2025-10-01,Cuadernos escolares,Mayoristas del Eje Cafetero,216,Planta Cali,72900
+2025-10-01,Envases plásticos tradicionales,Almacenes del Pacífico,667,Planta Cali,55530
+2025-10-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,525,Planta Bucaramanga,54010
+2025-10-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,455,Planta Medellín,52500
+2025-10-01,Envases plásticos tradicionales,Grupo Andino Retail,1100,Planta Bogotá,52780
+2025-10-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,147,Planta Cali,53410
+2025-10-01,Impermeables industriales,Almacenes del Pacífico,310,Planta Medellín,146830
+2025-10-01,Impermeables industriales,Comercial Caribe S.A.S.,367,Planta Bucaramanga,144560
+2025-10-01,Impermeables industriales,Distribuciones Antioqueñas,382,Planta Medellín,140690
+2025-10-01,Impermeables industriales,Grupo Andino Retail,474,Planta Bogotá,142600
+2025-10-01,Impermeables industriales,Mayoristas del Eje Cafetero,195,Planta Medellín,146280
+2025-10-01,Juguetes didácticos,Almacenes del Pacífico,219,Planta Medellín,141280
+2025-10-01,Juguetes didácticos,Comercial Caribe S.A.S.,277,Planta Bucaramanga,140960
+2025-10-01,Juguetes didácticos,Distribuciones Antioqueñas,308,Planta Medellín,135520
+2025-10-01,Juguetes didácticos,Grupo Andino Retail,427,Planta Bogotá,135940
+2025-10-01,Juguetes didácticos,Mayoristas del Eje Cafetero,267,Planta Medellín,138910
+2025-10-01,Paneles solares portátiles,Almacenes del Pacífico,112,Planta Cali,337230
+2025-10-01,Paneles solares portátiles,Comercial Caribe S.A.S.,130,Planta Bucaramanga,334030
+2025-10-01,Paneles solares portátiles,Distribuciones Antioqueñas,209,Planta Bogotá,321790
+2025-10-01,Paneles solares portátiles,Grupo Andino Retail,247,Planta Bogotá,327910
+2025-10-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,109,Planta Cali,330680
+2025-10-01,Ventiladores de torre,Almacenes del Pacífico,127,Planta Cali,209070
+2025-10-01,Ventiladores de torre,Comercial Caribe S.A.S.,197,Planta Bucaramanga,209040
+2025-10-01,Ventiladores de torre,Distribuciones Antioqueñas,121,Planta Bogotá,201770
+2025-10-01,Ventiladores de torre,Grupo Andino Retail,135,Planta Bogotá,204610
+2025-10-01,Ventiladores de torre,Mayoristas del Eje Cafetero,83,Planta Cali,207060
+2025-11-01,Baterías de litio recargables,Almacenes del Pacífico,145,Planta Cali,295010
+2025-11-01,Baterías de litio recargables,Comercial Caribe S.A.S.,160,Planta Medellín,286030
+2025-11-01,Baterías de litio recargables,Distribuciones Antioqueñas,143,Planta Medellín,279620
+2025-11-01,Baterías de litio recargables,Grupo Andino Retail,261,Planta Bogotá,284000
+2025-11-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,201,Planta Cali,289530
+2025-11-01,Bolsas biodegradables,Almacenes del Pacífico,482,Planta Medellín,65540
+2025-11-01,Bolsas biodegradables,Comercial Caribe S.A.S.,282,Planta Bucaramanga,64050
+2025-11-01,Bolsas biodegradables,Distribuciones Antioqueñas,472,Planta Medellín,62980
+2025-11-01,Bolsas biodegradables,Grupo Andino Retail,722,Planta Bogotá,63210
+2025-11-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,495,Planta Medellín,64940
+2025-11-01,Bombillos incandescentes,Almacenes del Pacífico,249,Planta Cali,75440
+2025-11-01,Bombillos incandescentes,Comercial Caribe S.A.S.,304,Planta Medellín,74210
+2025-11-01,Bombillos incandescentes,Distribuciones Antioqueñas,415,Planta Medellín,72290
+2025-11-01,Bombillos incandescentes,Grupo Andino Retail,318,Planta Bogotá,72390
+2025-11-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,119,Planta Cali,74620
+2025-11-01,Chocolatería de regalo,Almacenes del Pacífico,403,Planta Cali,99420
+2025-11-01,Chocolatería de regalo,Comercial Caribe S.A.S.,443,Planta Bucaramanga,98960
+2025-11-01,Chocolatería de regalo,Distribuciones Antioqueñas,368,Planta Medellín,96550
+2025-11-01,Chocolatería de regalo,Grupo Andino Retail,377,Planta Bogotá,96470
+2025-11-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,147,Planta Cali,98180
+2025-11-01,Cuadernos escolares,Almacenes del Pacífico,263,Planta Cali,74840
+2025-11-01,Cuadernos escolares,Comercial Caribe S.A.S.,300,Planta Medellín,74310
+2025-11-01,Cuadernos escolares,Distribuciones Antioqueñas,176,Planta Medellín,71970
+2025-11-01,Cuadernos escolares,Grupo Andino Retail,510,Planta Bogotá,71980
+2025-11-01,Cuadernos escolares,Mayoristas del Eje Cafetero,163,Planta Cali,74180
+2025-11-01,Envases plásticos tradicionales,Almacenes del Pacífico,642,Planta Cali,54570
+2025-11-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,473,Planta Bucaramanga,55020
+2025-11-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,383,Planta Medellín,52600
+2025-11-01,Envases plásticos tradicionales,Grupo Andino Retail,1023,Planta Bogotá,53620
+2025-11-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,134,Planta Cali,54750
+2025-11-01,Impermeables industriales,Almacenes del Pacífico,366,Planta Medellín,148300
+2025-11-01,Impermeables industriales,Comercial Caribe S.A.S.,353,Planta Bucaramanga,147480
+2025-11-01,Impermeables industriales,Distribuciones Antioqueñas,432,Planta Medellín,142850
+2025-11-01,Impermeables industriales,Grupo Andino Retail,520,Planta Bogotá,143260
+2025-11-01,Impermeables industriales,Mayoristas del Eje Cafetero,230,Planta Medellín,147510
+2025-11-01,Juguetes didácticos,Almacenes del Pacífico,280,Planta Medellín,141620
+2025-11-01,Juguetes didácticos,Comercial Caribe S.A.S.,354,Planta Bucaramanga,140600
+2025-11-01,Juguetes didácticos,Distribuciones Antioqueñas,502,Planta Medellín,135500
+2025-11-01,Juguetes didácticos,Grupo Andino Retail,768,Planta Bogotá,138130
+2025-11-01,Juguetes didácticos,Mayoristas del Eje Cafetero,359,Planta Medellín,140800
+2025-11-01,Paneles solares portátiles,Almacenes del Pacífico,121,Planta Cali,338800
+2025-11-01,Paneles solares portátiles,Comercial Caribe S.A.S.,128,Planta Bucaramanga,335850
+2025-11-01,Paneles solares portátiles,Distribuciones Antioqueñas,218,Planta Bogotá,329710
+2025-11-01,Paneles solares portátiles,Grupo Andino Retail,229,Planta Bogotá,327490
+2025-11-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,108,Planta Cali,335140
+2025-11-01,Ventiladores de torre,Almacenes del Pacífico,116,Planta Cali,210180
+2025-11-01,Ventiladores de torre,Comercial Caribe S.A.S.,168,Planta Bucaramanga,207630
+2025-11-01,Ventiladores de torre,Distribuciones Antioqueñas,125,Planta Bogotá,202170
+2025-11-01,Ventiladores de torre,Grupo Andino Retail,140,Planta Bogotá,202820
+2025-11-01,Ventiladores de torre,Mayoristas del Eje Cafetero,87,Planta Cali,208100
+2025-12-01,Baterías de litio recargables,Almacenes del Pacífico,135,Planta Cali,289740
+2025-12-01,Baterías de litio recargables,Comercial Caribe S.A.S.,183,Planta Medellín,290070
+2025-12-01,Baterías de litio recargables,Distribuciones Antioqueñas,132,Planta Medellín,282940
+2025-12-01,Baterías de litio recargables,Grupo Andino Retail,252,Planta Bogotá,284530
+2025-12-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,176,Planta Cali,290730
+2025-12-01,Bolsas biodegradables,Almacenes del Pacífico,543,Planta Medellín,65860
+2025-12-01,Bolsas biodegradables,Comercial Caribe S.A.S.,254,Planta Bucaramanga,65460
+2025-12-01,Bolsas biodegradables,Distribuciones Antioqueñas,438,Planta Medellín,63130
+2025-12-01,Bolsas biodegradables,Grupo Andino Retail,716,Planta Bogotá,63420
+2025-12-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,450,Planta Medellín,64830
+2025-12-01,Bombillos incandescentes,Almacenes del Pacífico,215,Planta Cali,76000
+2025-12-01,Bombillos incandescentes,Comercial Caribe S.A.S.,309,Planta Medellín,74050
+2025-12-01,Bombillos incandescentes,Distribuciones Antioqueñas,384,Planta Medellín,71970
+2025-12-01,Bombillos incandescentes,Grupo Andino Retail,281,Planta Bogotá,72700
+2025-12-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,120,Planta Cali,74720
+2025-12-01,Chocolatería de regalo,Almacenes del Pacífico,864,Planta Cali,100190
+2025-12-01,Chocolatería de regalo,Comercial Caribe S.A.S.,794,Planta Bucaramanga,98800
+2025-12-01,Chocolatería de regalo,Distribuciones Antioqueñas,729,Planta Medellín,96180
+2025-12-01,Chocolatería de regalo,Grupo Andino Retail,776,Planta Bogotá,97380
+2025-12-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,334,Planta Cali,99200
+2025-12-01,Cuadernos escolares,Almacenes del Pacífico,268,Planta Cali,74580
+2025-12-01,Cuadernos escolares,Comercial Caribe S.A.S.,333,Planta Medellín,74130
+2025-12-01,Cuadernos escolares,Distribuciones Antioqueñas,180,Planta Medellín,72010
+2025-12-01,Cuadernos escolares,Grupo Andino Retail,633,Planta Bogotá,72690
+2025-12-01,Cuadernos escolares,Mayoristas del Eje Cafetero,179,Planta Cali,74800
+2025-12-01,Envases plásticos tradicionales,Almacenes del Pacífico,709,Planta Cali,55550
+2025-12-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,423,Planta Bucaramanga,54070
+2025-12-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,430,Planta Medellín,53130
+2025-12-01,Envases plásticos tradicionales,Grupo Andino Retail,874,Planta Bogotá,53540
+2025-12-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,146,Planta Cali,54380
+2025-12-01,Impermeables industriales,Almacenes del Pacífico,201,Planta Medellín,150110
+2025-12-01,Impermeables industriales,Comercial Caribe S.A.S.,195,Planta Bucaramanga,147580
+2025-12-01,Impermeables industriales,Distribuciones Antioqueñas,228,Planta Medellín,143010
+2025-12-01,Impermeables industriales,Grupo Andino Retail,271,Planta Bogotá,144080
+2025-12-01,Impermeables industriales,Mayoristas del Eje Cafetero,110,Planta Medellín,146790
+2025-12-01,Juguetes didácticos,Almacenes del Pacífico,375,Planta Medellín,141060
+2025-12-01,Juguetes didácticos,Comercial Caribe S.A.S.,458,Planta Bucaramanga,141220
+2025-12-01,Juguetes didácticos,Distribuciones Antioqueñas,632,Planta Medellín,135660
+2025-12-01,Juguetes didácticos,Grupo Andino Retail,860,Planta Bogotá,137030
+2025-12-01,Juguetes didácticos,Mayoristas del Eje Cafetero,490,Planta Medellín,140160
+2025-12-01,Paneles solares portátiles,Almacenes del Pacífico,142,Planta Cali,338930
+2025-12-01,Paneles solares portátiles,Comercial Caribe S.A.S.,127,Planta Bucaramanga,337320
+2025-12-01,Paneles solares portátiles,Distribuciones Antioqueñas,211,Planta Bogotá,327320
+2025-12-01,Paneles solares portátiles,Grupo Andino Retail,231,Planta Bogotá,329310
+2025-12-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,110,Planta Cali,335090
+2025-12-01,Ventiladores de torre,Almacenes del Pacífico,139,Planta Cali,209780
+2025-12-01,Ventiladores de torre,Comercial Caribe S.A.S.,160,Planta Bucaramanga,206840
+2025-12-01,Ventiladores de torre,Distribuciones Antioqueñas,135,Planta Bogotá,204430
+2025-12-01,Ventiladores de torre,Grupo Andino Retail,144,Planta Bogotá,204120
+2025-12-01,Ventiladores de torre,Mayoristas del Eje Cafetero,85,Planta Cali,209210
+2026-01-01,Baterías de litio recargables,Almacenes del Pacífico,133,Planta Cali,295930
+2026-01-01,Baterías de litio recargables,Comercial Caribe S.A.S.,184,Planta Medellín,291610
+2026-01-01,Baterías de litio recargables,Distribuciones Antioqueñas,152,Planta Medellín,281660
+2026-01-01,Baterías de litio recargables,Grupo Andino Retail,235,Planta Bogotá,282270
+2026-01-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,236,Planta Cali,292140
+2026-01-01,Bolsas biodegradables,Almacenes del Pacífico,543,Planta Medellín,65500
+2026-01-01,Bolsas biodegradables,Comercial Caribe S.A.S.,289,Planta Bucaramanga,64980
+2026-01-01,Bolsas biodegradables,Distribuciones Antioqueñas,436,Planta Medellín,63080
+2026-01-01,Bolsas biodegradables,Grupo Andino Retail,766,Planta Bogotá,63560
+2026-01-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,472,Planta Medellín,65440
+2026-01-01,Bombillos incandescentes,Almacenes del Pacífico,251,Planta Cali,75730
+2026-01-01,Bombillos incandescentes,Comercial Caribe S.A.S.,309,Planta Medellín,74600
+2026-01-01,Bombillos incandescentes,Distribuciones Antioqueñas,388,Planta Medellín,72620
+2026-01-01,Bombillos incandescentes,Grupo Andino Retail,313,Planta Bogotá,74250
+2026-01-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,117,Planta Cali,75200
+2026-01-01,Chocolatería de regalo,Almacenes del Pacífico,296,Planta Cali,101040
+2026-01-01,Chocolatería de regalo,Comercial Caribe S.A.S.,299,Planta Bucaramanga,99920
+2026-01-01,Chocolatería de regalo,Distribuciones Antioqueñas,256,Planta Medellín,95320
+2026-01-01,Chocolatería de regalo,Grupo Andino Retail,231,Planta Bogotá,96780
+2026-01-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,109,Planta Cali,99740
+2026-01-01,Cuadernos escolares,Almacenes del Pacífico,817,Planta Cali,75390
+2026-01-01,Cuadernos escolares,Comercial Caribe S.A.S.,1016,Planta Medellín,74770
+2026-01-01,Cuadernos escolares,Distribuciones Antioqueñas,529,Planta Medellín,71870
+2026-01-01,Cuadernos escolares,Grupo Andino Retail,1513,Planta Bogotá,72690
+2026-01-01,Cuadernos escolares,Mayoristas del Eje Cafetero,551,Planta Cali,74870
+2026-01-01,Envases plásticos tradicionales,Almacenes del Pacífico,677,Planta Cali,55510
+2026-01-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,490,Planta Bucaramanga,54580
+2026-01-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,409,Planta Medellín,53090
+2026-01-01,Envases plásticos tradicionales,Grupo Andino Retail,939,Planta Bogotá,53610
+2026-01-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,165,Planta Cali,55150
+2026-01-01,Impermeables industriales,Almacenes del Pacífico,114,Planta Medellín,149070
+2026-01-01,Impermeables industriales,Comercial Caribe S.A.S.,134,Planta Bucaramanga,147470
+2026-01-01,Impermeables industriales,Distribuciones Antioqueñas,153,Planta Medellín,143300
+2026-01-01,Impermeables industriales,Grupo Andino Retail,174,Planta Bogotá,144980
+2026-01-01,Impermeables industriales,Mayoristas del Eje Cafetero,81,Planta Medellín,147590
+2026-01-01,Juguetes didácticos,Almacenes del Pacífico,91,Planta Medellín,142580
+2026-01-01,Juguetes didácticos,Comercial Caribe S.A.S.,122,Planta Bucaramanga,140150
+2026-01-01,Juguetes didácticos,Distribuciones Antioqueñas,169,Planta Medellín,138060
+2026-01-01,Juguetes didácticos,Grupo Andino Retail,185,Planta Bogotá,138240
+2026-01-01,Juguetes didácticos,Mayoristas del Eje Cafetero,125,Planta Medellín,142240
+2026-01-01,Paneles solares portátiles,Almacenes del Pacífico,129,Planta Cali,343000
+2026-01-01,Paneles solares portátiles,Comercial Caribe S.A.S.,142,Planta Bucaramanga,332880
+2026-01-01,Paneles solares portátiles,Distribuciones Antioqueñas,202,Planta Bogotá,324700
+2026-01-01,Paneles solares portátiles,Grupo Andino Retail,222,Planta Bogotá,330570
+2026-01-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,109,Planta Cali,337500
+2026-01-01,Ventiladores de torre,Almacenes del Pacífico,265,Planta Cali,210800
+2026-01-01,Ventiladores de torre,Comercial Caribe S.A.S.,343,Planta Bucaramanga,208620
+2026-01-01,Ventiladores de torre,Distribuciones Antioqueñas,258,Planta Bogotá,203760
+2026-01-01,Ventiladores de torre,Grupo Andino Retail,278,Planta Bogotá,205550
+2026-01-01,Ventiladores de torre,Mayoristas del Eje Cafetero,163,Planta Cali,208910
+2026-02-01,Baterías de litio recargables,Almacenes del Pacífico,146,Planta Cali,295670
+2026-02-01,Baterías de litio recargables,Comercial Caribe S.A.S.,178,Planta Medellín,292910
+2026-02-01,Baterías de litio recargables,Distribuciones Antioqueñas,134,Planta Medellín,286190
+2026-02-01,Baterías de litio recargables,Grupo Andino Retail,263,Planta Bogotá,286990
+2026-02-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,228,Planta Cali,292640
+2026-02-01,Bolsas biodegradables,Almacenes del Pacífico,556,Planta Medellín,65860
+2026-02-01,Bolsas biodegradables,Comercial Caribe S.A.S.,281,Planta Bucaramanga,65500
+2026-02-01,Bolsas biodegradables,Distribuciones Antioqueñas,439,Planta Medellín,63150
+2026-02-01,Bolsas biodegradables,Grupo Andino Retail,751,Planta Bogotá,63970
+2026-02-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,489,Planta Medellín,65540
+2026-02-01,Bombillos incandescentes,Almacenes del Pacífico,243,Planta Cali,75760
+2026-02-01,Bombillos incandescentes,Comercial Caribe S.A.S.,333,Planta Medellín,75520
+2026-02-01,Bombillos incandescentes,Distribuciones Antioqueñas,378,Planta Medellín,72740
+2026-02-01,Bombillos incandescentes,Grupo Andino Retail,325,Planta Bogotá,73090
+2026-02-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,121,Planta Cali,75120
+2026-02-01,Chocolatería de regalo,Almacenes del Pacífico,618,Planta Cali,101290
+2026-02-01,Chocolatería de regalo,Comercial Caribe S.A.S.,633,Planta Bucaramanga,100680
+2026-02-01,Chocolatería de regalo,Distribuciones Antioqueñas,515,Planta Medellín,95360
+2026-02-01,Chocolatería de regalo,Grupo Andino Retail,522,Planta Bogotá,98020
+2026-02-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,237,Planta Cali,100220
+2026-02-01,Cuadernos escolares,Almacenes del Pacífico,704,Planta Cali,74940
+2026-02-01,Cuadernos escolares,Comercial Caribe S.A.S.,940,Planta Medellín,75140
+2026-02-01,Cuadernos escolares,Distribuciones Antioqueñas,473,Planta Medellín,72480
+2026-02-01,Cuadernos escolares,Grupo Andino Retail,1516,Planta Bogotá,73660
+2026-02-01,Cuadernos escolares,Mayoristas del Eje Cafetero,466,Planta Cali,75150
+2026-02-01,Envases plásticos tradicionales,Almacenes del Pacífico,578,Planta Cali,55380
+2026-02-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,441,Planta Bucaramanga,54860
+2026-02-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,402,Planta Medellín,53200
+2026-02-01,Envases plásticos tradicionales,Grupo Andino Retail,903,Planta Bogotá,53880
+2026-02-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,146,Planta Cali,54940
+2026-02-01,Impermeables industriales,Almacenes del Pacífico,95,Planta Medellín,149040
+2026-02-01,Impermeables industriales,Comercial Caribe S.A.S.,120,Planta Bucaramanga,147960
+2026-02-01,Impermeables industriales,Distribuciones Antioqueñas,131,Planta Medellín,144320
+2026-02-01,Impermeables industriales,Grupo Andino Retail,178,Planta Bogotá,143880
+2026-02-01,Impermeables industriales,Mayoristas del Eje Cafetero,60,Planta Medellín,148440
+2026-02-01,Juguetes didácticos,Almacenes del Pacífico,118,Planta Medellín,143310
+2026-02-01,Juguetes didácticos,Comercial Caribe S.A.S.,151,Planta Bucaramanga,141580
+2026-02-01,Juguetes didácticos,Distribuciones Antioqueñas,180,Planta Medellín,138000
+2026-02-01,Juguetes didácticos,Grupo Andino Retail,301,Planta Bogotá,139470
+2026-02-01,Juguetes didácticos,Mayoristas del Eje Cafetero,127,Planta Medellín,140950
+2026-02-01,Paneles solares portátiles,Almacenes del Pacífico,128,Planta Cali,346550
+2026-02-01,Paneles solares portátiles,Comercial Caribe S.A.S.,151,Planta Bucaramanga,333990
+2026-02-01,Paneles solares portátiles,Distribuciones Antioqueñas,204,Planta Bogotá,327180
+2026-02-01,Paneles solares portátiles,Grupo Andino Retail,242,Planta Bogotá,331100
+2026-02-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,116,Planta Cali,340180
+2026-02-01,Ventiladores de torre,Almacenes del Pacífico,285,Planta Cali,214190
+2026-02-01,Ventiladores de torre,Comercial Caribe S.A.S.,393,Planta Bucaramanga,208830
+2026-02-01,Ventiladores de torre,Distribuciones Antioqueñas,272,Planta Bogotá,205410
+2026-02-01,Ventiladores de torre,Grupo Andino Retail,292,Planta Bogotá,204430
+2026-02-01,Ventiladores de torre,Mayoristas del Eje Cafetero,168,Planta Cali,210990
+2026-03-01,Baterías de litio recargables,Almacenes del Pacífico,152,Planta Cali,297200
+2026-03-01,Baterías de litio recargables,Comercial Caribe S.A.S.,184,Planta Medellín,296890
+2026-03-01,Baterías de litio recargables,Distribuciones Antioqueñas,122,Planta Medellín,286200
+2026-03-01,Baterías de litio recargables,Grupo Andino Retail,286,Planta Bogotá,289930
+2026-03-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,208,Planta Cali,294100
+2026-03-01,Bolsas biodegradables,Almacenes del Pacífico,531,Planta Medellín,66500
+2026-03-01,Bolsas biodegradables,Comercial Caribe S.A.S.,302,Planta Bucaramanga,65310
+2026-03-01,Bolsas biodegradables,Distribuciones Antioqueñas,510,Planta Medellín,64000
+2026-03-01,Bolsas biodegradables,Grupo Andino Retail,792,Planta Bogotá,64630
+2026-03-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,539,Planta Medellín,66040
+2026-03-01,Bombillos incandescentes,Almacenes del Pacífico,219,Planta Cali,76170
+2026-03-01,Bombillos incandescentes,Comercial Caribe S.A.S.,293,Planta Medellín,75500
+2026-03-01,Bombillos incandescentes,Distribuciones Antioqueñas,353,Planta Medellín,73460
+2026-03-01,Bombillos incandescentes,Grupo Andino Retail,319,Planta Bogotá,74430
+2026-03-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,109,Planta Cali,75700
+2026-03-01,Chocolatería de regalo,Almacenes del Pacífico,311,Planta Cali,101850
+2026-03-01,Chocolatería de regalo,Comercial Caribe S.A.S.,292,Planta Bucaramanga,99910
+2026-03-01,Chocolatería de regalo,Distribuciones Antioqueñas,226,Planta Medellín,97740
+2026-03-01,Chocolatería de regalo,Grupo Andino Retail,260,Planta Bogotá,98510
+2026-03-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,109,Planta Cali,101150
+2026-03-01,Cuadernos escolares,Almacenes del Pacífico,383,Planta Cali,76070
+2026-03-01,Cuadernos escolares,Comercial Caribe S.A.S.,468,Planta Medellín,74970
+2026-03-01,Cuadernos escolares,Distribuciones Antioqueñas,280,Planta Medellín,72410
+2026-03-01,Cuadernos escolares,Grupo Andino Retail,884,Planta Bogotá,74720
+2026-03-01,Cuadernos escolares,Mayoristas del Eje Cafetero,273,Planta Cali,75230
+2026-03-01,Envases plásticos tradicionales,Almacenes del Pacífico,603,Planta Cali,55270
+2026-03-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,443,Planta Bucaramanga,54980
+2026-03-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,374,Planta Medellín,53840
+2026-03-01,Envases plásticos tradicionales,Grupo Andino Retail,1070,Planta Bogotá,53800
+2026-03-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,142,Planta Cali,55300
+2026-03-01,Impermeables industriales,Almacenes del Pacífico,176,Planta Medellín,149420
+2026-03-01,Impermeables industriales,Comercial Caribe S.A.S.,178,Planta Bucaramanga,148130
+2026-03-01,Impermeables industriales,Distribuciones Antioqueñas,231,Planta Medellín,143130
+2026-03-01,Impermeables industriales,Grupo Andino Retail,278,Planta Bogotá,145200
+2026-03-01,Impermeables industriales,Mayoristas del Eje Cafetero,121,Planta Medellín,148790
+2026-03-01,Juguetes didácticos,Almacenes del Pacífico,100,Planta Medellín,143210
+2026-03-01,Juguetes didácticos,Comercial Caribe S.A.S.,119,Planta Bucaramanga,141820
+2026-03-01,Juguetes didácticos,Distribuciones Antioqueñas,134,Planta Medellín,137500
+2026-03-01,Juguetes didácticos,Grupo Andino Retail,218,Planta Bogotá,140050
+2026-03-01,Juguetes didácticos,Mayoristas del Eje Cafetero,119,Planta Medellín,143620
+2026-03-01,Paneles solares portátiles,Almacenes del Pacífico,126,Planta Cali,344470
+2026-03-01,Paneles solares portátiles,Comercial Caribe S.A.S.,136,Planta Bucaramanga,342260
+2026-03-01,Paneles solares portátiles,Distribuciones Antioqueñas,194,Planta Bogotá,333140
+2026-03-01,Paneles solares portátiles,Grupo Andino Retail,229,Planta Bogotá,331430
+2026-03-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,126,Planta Cali,340010
+2026-03-01,Ventiladores de torre,Almacenes del Pacífico,324,Planta Cali,213960
+2026-03-01,Ventiladores de torre,Comercial Caribe S.A.S.,425,Planta Bucaramanga,211510
+2026-03-01,Ventiladores de torre,Distribuciones Antioqueñas,321,Planta Bogotá,204440
+2026-03-01,Ventiladores de torre,Grupo Andino Retail,334,Planta Bogotá,205510
+2026-03-01,Ventiladores de torre,Mayoristas del Eje Cafetero,211,Planta Cali,211390
+2026-04-01,Baterías de litio recargables,Almacenes del Pacífico,156,Planta Cali,299030
+2026-04-01,Baterías de litio recargables,Comercial Caribe S.A.S.,189,Planta Medellín,292390
+2026-04-01,Baterías de litio recargables,Distribuciones Antioqueñas,128,Planta Medellín,286020
+2026-04-01,Baterías de litio recargables,Grupo Andino Retail,296,Planta Bogotá,287380
+2026-04-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,200,Planta Cali,293300
+2026-04-01,Bolsas biodegradables,Almacenes del Pacífico,545,Planta Medellín,66790
+2026-04-01,Bolsas biodegradables,Comercial Caribe S.A.S.,273,Planta Bucaramanga,66110
+2026-04-01,Bolsas biodegradables,Distribuciones Antioqueñas,512,Planta Medellín,64050
+2026-04-01,Bolsas biodegradables,Grupo Andino Retail,652,Planta Bogotá,64530
+2026-04-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,500,Planta Medellín,65800
+2026-04-01,Bombillos incandescentes,Almacenes del Pacífico,194,Planta Cali,76990
+2026-04-01,Bombillos incandescentes,Comercial Caribe S.A.S.,266,Planta Medellín,75710
+2026-04-01,Bombillos incandescentes,Distribuciones Antioqueñas,337,Planta Medellín,73770
+2026-04-01,Bombillos incandescentes,Grupo Andino Retail,253,Planta Bogotá,74270
+2026-04-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,105,Planta Cali,76060
+2026-04-01,Chocolatería de regalo,Almacenes del Pacífico,265,Planta Cali,101760
+2026-04-01,Chocolatería de regalo,Comercial Caribe S.A.S.,289,Planta Bucaramanga,101040
+2026-04-01,Chocolatería de regalo,Distribuciones Antioqueñas,260,Planta Medellín,97340
+2026-04-01,Chocolatería de regalo,Grupo Andino Retail,266,Planta Bogotá,99380
+2026-04-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,124,Planta Cali,101180
+2026-04-01,Cuadernos escolares,Almacenes del Pacífico,264,Planta Cali,76020
+2026-04-01,Cuadernos escolares,Comercial Caribe S.A.S.,392,Planta Medellín,75380
+2026-04-01,Cuadernos escolares,Distribuciones Antioqueñas,207,Planta Medellín,73010
+2026-04-01,Cuadernos escolares,Grupo Andino Retail,630,Planta Bogotá,73570
+2026-04-01,Cuadernos escolares,Mayoristas del Eje Cafetero,202,Planta Cali,75550
+2026-04-01,Envases plásticos tradicionales,Almacenes del Pacífico,647,Planta Cali,55390
+2026-04-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,422,Planta Bucaramanga,55590
+2026-04-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,397,Planta Medellín,53540
+2026-04-01,Envases plásticos tradicionales,Grupo Andino Retail,856,Planta Bogotá,54000
+2026-04-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,156,Planta Cali,55580
+2026-04-01,Impermeables industriales,Almacenes del Pacífico,287,Planta Medellín,150710
+2026-04-01,Impermeables industriales,Comercial Caribe S.A.S.,344,Planta Bucaramanga,149620
+2026-04-01,Impermeables industriales,Distribuciones Antioqueñas,365,Planta Medellín,144460
+2026-04-01,Impermeables industriales,Grupo Andino Retail,471,Planta Bogotá,146370
+2026-04-01,Impermeables industriales,Mayoristas del Eje Cafetero,197,Planta Medellín,149130
+2026-04-01,Juguetes didácticos,Almacenes del Pacífico,126,Planta Medellín,144810
+2026-04-01,Juguetes didácticos,Comercial Caribe S.A.S.,158,Planta Bucaramanga,143460
+2026-04-01,Juguetes didácticos,Distribuciones Antioqueñas,206,Planta Medellín,138110
+2026-04-01,Juguetes didácticos,Grupo Andino Retail,274,Planta Bogotá,140080
+2026-04-01,Juguetes didácticos,Mayoristas del Eje Cafetero,171,Planta Medellín,143700
+2026-04-01,Paneles solares portátiles,Almacenes del Pacífico,124,Planta Cali,344680
+2026-04-01,Paneles solares portátiles,Comercial Caribe S.A.S.,141,Planta Bucaramanga,339370
+2026-04-01,Paneles solares portátiles,Distribuciones Antioqueñas,224,Planta Bogotá,332250
+2026-04-01,Paneles solares portátiles,Grupo Andino Retail,253,Planta Bogotá,335950
+2026-04-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,115,Planta Cali,342620
+2026-04-01,Ventiladores de torre,Almacenes del Pacífico,248,Planta Cali,216310
+2026-04-01,Ventiladores de torre,Comercial Caribe S.A.S.,380,Planta Bucaramanga,212640
+2026-04-01,Ventiladores de torre,Distribuciones Antioqueñas,281,Planta Bogotá,204220
+2026-04-01,Ventiladores de torre,Grupo Andino Retail,298,Planta Bogotá,209530
+2026-04-01,Ventiladores de torre,Mayoristas del Eje Cafetero,154,Planta Cali,210750
+2026-05-01,Baterías de litio recargables,Almacenes del Pacífico,161,Planta Cali,299390
+2026-05-01,Baterías de litio recargables,Comercial Caribe S.A.S.,185,Planta Medellín,297590
+2026-05-01,Baterías de litio recargables,Distribuciones Antioqueñas,137,Planta Medellín,285650
+2026-05-01,Baterías de litio recargables,Grupo Andino Retail,264,Planta Bogotá,290680
+2026-05-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,234,Planta Cali,297930
+2026-05-01,Bolsas biodegradables,Almacenes del Pacífico,501,Planta Medellín,66490
+2026-05-01,Bolsas biodegradables,Comercial Caribe S.A.S.,291,Planta Bucaramanga,66470
+2026-05-01,Bolsas biodegradables,Distribuciones Antioqueñas,511,Planta Medellín,63730
+2026-05-01,Bolsas biodegradables,Grupo Andino Retail,748,Planta Bogotá,65300
+2026-05-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,552,Planta Medellín,66540
+2026-05-01,Bombillos incandescentes,Almacenes del Pacífico,236,Planta Cali,76690
+2026-05-01,Bombillos incandescentes,Comercial Caribe S.A.S.,308,Planta Medellín,76510
+2026-05-01,Bombillos incandescentes,Distribuciones Antioqueñas,327,Planta Medellín,73670
+2026-05-01,Bombillos incandescentes,Grupo Andino Retail,298,Planta Bogotá,74880
+2026-05-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,133,Planta Cali,76710
+2026-05-01,Chocolatería de regalo,Almacenes del Pacífico,567,Planta Cali,102370
+2026-05-01,Chocolatería de regalo,Comercial Caribe S.A.S.,626,Planta Bucaramanga,101040
+2026-05-01,Chocolatería de regalo,Distribuciones Antioqueñas,520,Planta Medellín,98970
+2026-05-01,Chocolatería de regalo,Grupo Andino Retail,526,Planta Bogotá,98730
+2026-05-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,258,Planta Cali,101970
+2026-05-01,Cuadernos escolares,Almacenes del Pacífico,247,Planta Cali,76530
+2026-05-01,Cuadernos escolares,Comercial Caribe S.A.S.,296,Planta Medellín,75320
+2026-05-01,Cuadernos escolares,Distribuciones Antioqueñas,174,Planta Medellín,73850
+2026-05-01,Cuadernos escolares,Grupo Andino Retail,461,Planta Bogotá,74330
+2026-05-01,Cuadernos escolares,Mayoristas del Eje Cafetero,163,Planta Cali,75690
+2026-05-01,Envases plásticos tradicionales,Almacenes del Pacífico,573,Planta Cali,56090
+2026-05-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,391,Planta Bucaramanga,55490
+2026-05-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,346,Planta Medellín,54040
+2026-05-01,Envases plásticos tradicionales,Grupo Andino Retail,1028,Planta Bogotá,54450
+2026-05-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,145,Planta Cali,56010
+2026-05-01,Impermeables industriales,Almacenes del Pacífico,303,Planta Medellín,152060
+2026-05-01,Impermeables industriales,Comercial Caribe S.A.S.,323,Planta Bucaramanga,149380
+2026-05-01,Impermeables industriales,Distribuciones Antioqueñas,394,Planta Medellín,145720
+2026-05-01,Impermeables industriales,Grupo Andino Retail,509,Planta Bogotá,147790
+2026-05-01,Impermeables industriales,Mayoristas del Eje Cafetero,227,Planta Medellín,149250
+2026-05-01,Juguetes didácticos,Almacenes del Pacífico,115,Planta Medellín,145290
+2026-05-01,Juguetes didácticos,Comercial Caribe S.A.S.,163,Planta Bucaramanga,143960
+2026-05-01,Juguetes didácticos,Distribuciones Antioqueñas,219,Planta Medellín,140800
+2026-05-01,Juguetes didácticos,Grupo Andino Retail,304,Planta Bogotá,140790
+2026-05-01,Juguetes didácticos,Mayoristas del Eje Cafetero,157,Planta Medellín,142920
+2026-05-01,Paneles solares portátiles,Almacenes del Pacífico,136,Planta Cali,348140
+2026-05-01,Paneles solares portátiles,Comercial Caribe S.A.S.,135,Planta Bucaramanga,345000
+2026-05-01,Paneles solares portátiles,Distribuciones Antioqueñas,218,Planta Bogotá,332660
+2026-05-01,Paneles solares portátiles,Grupo Andino Retail,255,Planta Bogotá,338000
+2026-05-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,126,Planta Cali,342500
+2026-05-01,Ventiladores de torre,Almacenes del Pacífico,194,Planta Cali,214980
+2026-05-01,Ventiladores de torre,Comercial Caribe S.A.S.,229,Planta Bucaramanga,213960
+2026-05-01,Ventiladores de torre,Distribuciones Antioqueñas,190,Planta Bogotá,207650
+2026-05-01,Ventiladores de torre,Grupo Andino Retail,179,Planta Bogotá,209100
+2026-05-01,Ventiladores de torre,Mayoristas del Eje Cafetero,102,Planta Cali,211160
+2026-06-01,Baterías de litio recargables,Almacenes del Pacífico,157,Planta Cali,299590
+2026-06-01,Baterías de litio recargables,Comercial Caribe S.A.S.,197,Planta Medellín,296450
+2026-06-01,Baterías de litio recargables,Distribuciones Antioqueñas,132,Planta Medellín,288570
+2026-06-01,Baterías de litio recargables,Grupo Andino Retail,322,Planta Bogotá,293290
+2026-06-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,202,Planta Cali,298520
+2026-06-01,Bolsas biodegradables,Almacenes del Pacífico,571,Planta Medellín,67270
+2026-06-01,Bolsas biodegradables,Comercial Caribe S.A.S.,271,Planta Bucaramanga,66660
+2026-06-01,Bolsas biodegradables,Distribuciones Antioqueñas,519,Planta Medellín,64610
+2026-06-01,Bolsas biodegradables,Grupo Andino Retail,713,Planta Bogotá,65230
+2026-06-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,458,Planta Medellín,66440
+2026-06-01,Bombillos incandescentes,Almacenes del Pacífico,218,Planta Cali,77170
+2026-06-01,Bombillos incandescentes,Comercial Caribe S.A.S.,278,Planta Medellín,76910
+2026-06-01,Bombillos incandescentes,Distribuciones Antioqueñas,362,Planta Medellín,74600
+2026-06-01,Bombillos incandescentes,Grupo Andino Retail,246,Planta Bogotá,75200
+2026-06-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,115,Planta Cali,76470
+2026-06-01,Chocolatería de regalo,Almacenes del Pacífico,348,Planta Cali,103300
+2026-06-01,Chocolatería de regalo,Comercial Caribe S.A.S.,344,Planta Bucaramanga,101490
+2026-06-01,Chocolatería de regalo,Distribuciones Antioqueñas,282,Planta Medellín,99800
+2026-06-01,Chocolatería de regalo,Grupo Andino Retail,281,Planta Bogotá,99850
+2026-06-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,139,Planta Cali,102060
+2026-06-01,Cuadernos escolares,Almacenes del Pacífico,279,Planta Cali,76770
+2026-06-01,Cuadernos escolares,Comercial Caribe S.A.S.,354,Planta Medellín,76240
+2026-06-01,Cuadernos escolares,Distribuciones Antioqueñas,214,Planta Medellín,74260
+2026-06-01,Cuadernos escolares,Grupo Andino Retail,587,Planta Bogotá,74380
+2026-06-01,Cuadernos escolares,Mayoristas del Eje Cafetero,199,Planta Cali,76200
+2026-06-01,Envases plásticos tradicionales,Almacenes del Pacífico,584,Planta Cali,56580
+2026-06-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,403,Planta Bucaramanga,55510
+2026-06-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,406,Planta Medellín,53710
+2026-06-01,Envases plásticos tradicionales,Grupo Andino Retail,900,Planta Bogotá,54680
+2026-06-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,125,Planta Cali,56120
+2026-06-01,Impermeables industriales,Almacenes del Pacífico,155,Planta Medellín,154160
+2026-06-01,Impermeables industriales,Comercial Caribe S.A.S.,172,Planta Bucaramanga,150250
+2026-06-01,Impermeables industriales,Distribuciones Antioqueñas,207,Planta Medellín,147740
+2026-06-01,Impermeables industriales,Grupo Andino Retail,247,Planta Bogotá,148350
+2026-06-01,Impermeables industriales,Mayoristas del Eje Cafetero,101,Planta Medellín,150530
+2026-06-01,Juguetes didácticos,Almacenes del Pacífico,114,Planta Medellín,145500
+2026-06-01,Juguetes didácticos,Comercial Caribe S.A.S.,147,Planta Bucaramanga,145250
+2026-06-01,Juguetes didácticos,Distribuciones Antioqueñas,171,Planta Medellín,139380
+2026-06-01,Juguetes didácticos,Grupo Andino Retail,278,Planta Bogotá,141650
+2026-06-01,Juguetes didácticos,Mayoristas del Eje Cafetero,152,Planta Medellín,144340
+2026-06-01,Paneles solares portátiles,Almacenes del Pacífico,139,Planta Cali,350250
+2026-06-01,Paneles solares portátiles,Comercial Caribe S.A.S.,129,Planta Bucaramanga,346560
+2026-06-01,Paneles solares portátiles,Distribuciones Antioqueñas,242,Planta Bogotá,334220
+2026-06-01,Paneles solares portátiles,Grupo Andino Retail,256,Planta Bogotá,338380
+2026-06-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,130,Planta Cali,346300
+2026-06-01,Ventiladores de torre,Almacenes del Pacífico,136,Planta Cali,214510
+2026-06-01,Ventiladores de torre,Comercial Caribe S.A.S.,166,Planta Bucaramanga,214570
+2026-06-01,Ventiladores de torre,Distribuciones Antioqueñas,134,Planta Bogotá,205830
+2026-06-01,Ventiladores de torre,Grupo Andino Retail,126,Planta Bogotá,208960
+2026-06-01,Ventiladores de torre,Mayoristas del Eje Cafetero,78,Planta Cali,215100
+2026-07-01,Baterías de litio recargables,Almacenes del Pacífico,143,Planta Cali,303820
+2026-07-01,Baterías de litio recargables,Comercial Caribe S.A.S.,199,Planta Medellín,299650
+2026-07-01,Baterías de litio recargables,Distribuciones Antioqueñas,153,Planta Medellín,289130
+2026-07-01,Baterías de litio recargables,Grupo Andino Retail,299,Planta Bogotá,291740
+2026-07-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,219,Planta Cali,298780
+2026-07-01,Bolsas biodegradables,Almacenes del Pacífico,587,Planta Medellín,67470
+2026-07-01,Bolsas biodegradables,Comercial Caribe S.A.S.,322,Planta Bucaramanga,66970
+2026-07-01,Bolsas biodegradables,Distribuciones Antioqueñas,516,Planta Medellín,64930
+2026-07-01,Bolsas biodegradables,Grupo Andino Retail,762,Planta Bogotá,65520
+2026-07-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,528,Planta Medellín,67070
+2026-07-01,Bombillos incandescentes,Almacenes del Pacífico,212,Planta Cali,77340
+2026-07-01,Bombillos incandescentes,Comercial Caribe S.A.S.,255,Planta Medellín,76330
+2026-07-01,Bombillos incandescentes,Distribuciones Antioqueñas,301,Planta Medellín,74720
+2026-07-01,Bombillos incandescentes,Grupo Andino Retail,225,Planta Bogotá,75190
+2026-07-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,93,Planta Cali,76300
+2026-07-01,Chocolatería de regalo,Almacenes del Pacífico,327,Planta Cali,103280
+2026-07-01,Chocolatería de regalo,Comercial Caribe S.A.S.,286,Planta Bucaramanga,102310
+2026-07-01,Chocolatería de regalo,Distribuciones Antioqueñas,254,Planta Medellín,99290
+2026-07-01,Chocolatería de regalo,Grupo Andino Retail,283,Planta Bogotá,99890
+2026-07-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,118,Planta Cali,102420
+2026-07-01,Cuadernos escolares,Almacenes del Pacífico,400,Planta Cali,77180
+2026-07-01,Cuadernos escolares,Comercial Caribe S.A.S.,540,Planta Medellín,76620
+2026-07-01,Cuadernos escolares,Distribuciones Antioqueñas,294,Planta Medellín,73810
+2026-07-01,Cuadernos escolares,Grupo Andino Retail,851,Planta Bogotá,74780
+2026-07-01,Cuadernos escolares,Mayoristas del Eje Cafetero,304,Planta Cali,75950
+2026-07-01,Envases plásticos tradicionales,Almacenes del Pacífico,623,Planta Cali,56950
+2026-07-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,394,Planta Bucaramanga,56160
+2026-07-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,363,Planta Medellín,54070
+2026-07-01,Envases plásticos tradicionales,Grupo Andino Retail,827,Planta Bogotá,54940
+2026-07-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,131,Planta Cali,55430
+2026-07-01,Impermeables industriales,Almacenes del Pacífico,100,Planta Medellín,152690
+2026-07-01,Impermeables industriales,Comercial Caribe S.A.S.,102,Planta Bucaramanga,150650
+2026-07-01,Impermeables industriales,Distribuciones Antioqueñas,120,Planta Medellín,146740
+2026-07-01,Impermeables industriales,Grupo Andino Retail,131,Planta Bogotá,149280
+2026-07-01,Impermeables industriales,Mayoristas del Eje Cafetero,69,Planta Medellín,149990
+2026-07-01,Juguetes didácticos,Almacenes del Pacífico,110,Planta Medellín,146310
+2026-07-01,Juguetes didácticos,Comercial Caribe S.A.S.,162,Planta Bucaramanga,143800
+2026-07-01,Juguetes didácticos,Distribuciones Antioqueñas,214,Planta Medellín,141660
+2026-07-01,Juguetes didácticos,Grupo Andino Retail,316,Planta Bogotá,141490
+2026-07-01,Juguetes didácticos,Mayoristas del Eje Cafetero,175,Planta Medellín,144740
+2026-07-01,Paneles solares portátiles,Almacenes del Pacífico,137,Planta Cali,348870
+2026-07-01,Paneles solares portátiles,Comercial Caribe S.A.S.,151,Planta Bucaramanga,343930
+2026-07-01,Paneles solares portátiles,Distribuciones Antioqueñas,239,Planta Bogotá,335280
+2026-07-01,Paneles solares portátiles,Grupo Andino Retail,264,Planta Bogotá,338920
+2026-07-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,136,Planta Cali,349070
+2026-07-01,Ventiladores de torre,Almacenes del Pacífico,121,Planta Cali,216550
+2026-07-01,Ventiladores de torre,Comercial Caribe S.A.S.,150,Planta Bucaramanga,213280
+2026-07-01,Ventiladores de torre,Distribuciones Antioqueñas,112,Planta Bogotá,209080
+2026-07-01,Ventiladores de torre,Grupo Andino Retail,119,Planta Bogotá,210420
+2026-07-01,Ventiladores de torre,Mayoristas del Eje Cafetero,67,Planta Cali,212330
+2026-08-01,Baterías de litio recargables,Almacenes del Pacífico,154,Planta Cali,303670
+2026-08-01,Baterías de litio recargables,Comercial Caribe S.A.S.,220,Planta Medellín,298340
+2026-08-01,Baterías de litio recargables,Distribuciones Antioqueñas,146,Planta Medellín,291310
+2026-08-01,Baterías de litio recargables,Grupo Andino Retail,263,Planta Bogotá,294630
+2026-08-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,230,Planta Cali,300950
+2026-08-01,Bolsas biodegradables,Almacenes del Pacífico,495,Planta Medellín,68080
+2026-08-01,Bolsas biodegradables,Comercial Caribe S.A.S.,305,Planta Bucaramanga,67050
+2026-08-01,Bolsas biodegradables,Distribuciones Antioqueñas,465,Planta Medellín,64580
+2026-08-01,Bolsas biodegradables,Grupo Andino Retail,665,Planta Bogotá,65470
+2026-08-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,561,Planta Medellín,67170
+2026-08-01,Bombillos incandescentes,Almacenes del Pacífico,190,Planta Cali,78300
+2026-08-01,Bombillos incandescentes,Comercial Caribe S.A.S.,292,Planta Medellín,77760
+2026-08-01,Bombillos incandescentes,Distribuciones Antioqueñas,294,Planta Medellín,74360
+2026-08-01,Bombillos incandescentes,Grupo Andino Retail,278,Planta Bogotá,75580
+2026-08-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,114,Planta Cali,76810
+2026-08-01,Chocolatería de regalo,Almacenes del Pacífico,339,Planta Cali,103840
+2026-08-01,Chocolatería de regalo,Comercial Caribe S.A.S.,332,Planta Bucaramanga,102680
+2026-08-01,Chocolatería de regalo,Distribuciones Antioqueñas,320,Planta Medellín,99550
+2026-08-01,Chocolatería de regalo,Grupo Andino Retail,257,Planta Bogotá,99650
+2026-08-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,122,Planta Cali,102920
+2026-08-01,Cuadernos escolares,Almacenes del Pacífico,709,Planta Cali,76440
+2026-08-01,Cuadernos escolares,Comercial Caribe S.A.S.,837,Planta Medellín,76720
+2026-08-01,Cuadernos escolares,Distribuciones Antioqueñas,470,Planta Medellín,74450
+2026-08-01,Cuadernos escolares,Grupo Andino Retail,1507,Planta Bogotá,75190
+2026-08-01,Cuadernos escolares,Mayoristas del Eje Cafetero,456,Planta Cali,77230
+2026-08-01,Envases plásticos tradicionales,Almacenes del Pacífico,630,Planta Cali,57240
+2026-08-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,388,Planta Bucaramanga,56280
+2026-08-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,334,Planta Medellín,54570
+2026-08-01,Envases plásticos tradicionales,Grupo Andino Retail,1020,Planta Bogotá,55610
+2026-08-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,112,Planta Cali,56070
+2026-08-01,Impermeables industriales,Almacenes del Pacífico,95,Planta Medellín,154550
+2026-08-01,Impermeables industriales,Comercial Caribe S.A.S.,107,Planta Bucaramanga,152310
+2026-08-01,Impermeables industriales,Distribuciones Antioqueñas,125,Planta Medellín,146810
+2026-08-01,Impermeables industriales,Grupo Andino Retail,156,Planta Bogotá,149490
+2026-08-01,Impermeables industriales,Mayoristas del Eje Cafetero,60,Planta Medellín,150180
+2026-08-01,Juguetes didácticos,Almacenes del Pacífico,101,Planta Medellín,146660
+2026-08-01,Juguetes didácticos,Comercial Caribe S.A.S.,154,Planta Bucaramanga,145210
+2026-08-01,Juguetes didácticos,Distribuciones Antioqueñas,172,Planta Medellín,141270
+2026-08-01,Juguetes didácticos,Grupo Andino Retail,281,Planta Bogotá,143700
+2026-08-01,Juguetes didácticos,Mayoristas del Eje Cafetero,151,Planta Medellín,145570
+2026-08-01,Paneles solares portátiles,Almacenes del Pacífico,166,Planta Cali,351540
+2026-08-01,Paneles solares portátiles,Comercial Caribe S.A.S.,147,Planta Bucaramanga,345610
+2026-08-01,Paneles solares portátiles,Distribuciones Antioqueñas,228,Planta Bogotá,334580
+2026-08-01,Paneles solares portátiles,Grupo Andino Retail,253,Planta Bogotá,344200
+2026-08-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,119,Planta Cali,347400
+2026-08-01,Ventiladores de torre,Almacenes del Pacífico,111,Planta Cali,217230
+2026-08-01,Ventiladores de torre,Comercial Caribe S.A.S.,147,Planta Bucaramanga,216010
+2026-08-01,Ventiladores de torre,Distribuciones Antioqueñas,101,Planta Bogotá,208020
+2026-08-01,Ventiladores de torre,Grupo Andino Retail,125,Planta Bogotá,210790
+2026-08-01,Ventiladores de torre,Mayoristas del Eje Cafetero,66,Planta Cali,215440
+2026-09-01,Baterías de litio recargables,Almacenes del Pacífico,155,Planta Cali,302780
+2026-09-01,Baterías de litio recargables,Comercial Caribe S.A.S.,182,Planta Medellín,300200
+2026-09-01,Baterías de litio recargables,Distribuciones Antioqueñas,137,Planta Medellín,292720
+2026-09-01,Baterías de litio recargables,Grupo Andino Retail,262,Planta Bogotá,294300
+2026-09-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,227,Planta Cali,302780
+2026-09-01,Bolsas biodegradables,Almacenes del Pacífico,540,Planta Medellín,68140
+2026-09-01,Bolsas biodegradables,Comercial Caribe S.A.S.,287,Planta Bucaramanga,67320
+2026-09-01,Bolsas biodegradables,Distribuciones Antioqueñas,479,Planta Medellín,65510
+2026-09-01,Bolsas biodegradables,Grupo Andino Retail,751,Planta Bogotá,66400
+2026-09-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,554,Planta Medellín,67370
+2026-09-01,Bombillos incandescentes,Almacenes del Pacífico,197,Planta Cali,78990
+2026-09-01,Bombillos incandescentes,Comercial Caribe S.A.S.,281,Planta Medellín,77410
+2026-09-01,Bombillos incandescentes,Distribuciones Antioqueñas,324,Planta Medellín,74460
+2026-09-01,Bombillos incandescentes,Grupo Andino Retail,243,Planta Bogotá,76220
+2026-09-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,97,Planta Cali,77360
+2026-09-01,Chocolatería de regalo,Almacenes del Pacífico,594,Planta Cali,104000
+2026-09-01,Chocolatería de regalo,Comercial Caribe S.A.S.,606,Planta Bucaramanga,102380
+2026-09-01,Chocolatería de regalo,Distribuciones Antioqueñas,480,Planta Medellín,99830
+2026-09-01,Chocolatería de regalo,Grupo Andino Retail,503,Planta Bogotá,100630
+2026-09-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,211,Planta Cali,102560
+2026-09-01,Cuadernos escolares,Almacenes del Pacífico,482,Planta Cali,77810
+2026-09-01,Cuadernos escolares,Comercial Caribe S.A.S.,670,Planta Medellín,76850
+2026-09-01,Cuadernos escolares,Distribuciones Antioqueñas,361,Planta Medellín,74260
+2026-09-01,Cuadernos escolares,Grupo Andino Retail,1054,Planta Bogotá,75040
+2026-09-01,Cuadernos escolares,Mayoristas del Eje Cafetero,330,Planta Cali,76650
+2026-09-01,Envases plásticos tradicionales,Almacenes del Pacífico,588,Planta Cali,57230
+2026-09-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,392,Planta Bucaramanga,56400
+2026-09-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,333,Planta Medellín,54740
+2026-09-01,Envases plásticos tradicionales,Grupo Andino Retail,804,Planta Bogotá,55630
+2026-09-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,134,Planta Cali,56610
+2026-09-01,Impermeables industriales,Almacenes del Pacífico,198,Planta Medellín,154090
+2026-09-01,Impermeables industriales,Comercial Caribe S.A.S.,212,Planta Bucaramanga,152220
+2026-09-01,Impermeables industriales,Distribuciones Antioqueñas,243,Planta Medellín,146050
+2026-09-01,Impermeables industriales,Grupo Andino Retail,256,Planta Bogotá,148670
+2026-09-01,Impermeables industriales,Mayoristas del Eje Cafetero,118,Planta Medellín,151480
+2026-09-01,Juguetes didácticos,Almacenes del Pacífico,137,Planta Medellín,146240
+2026-09-01,Juguetes didácticos,Comercial Caribe S.A.S.,199,Planta Bucaramanga,146310
+2026-09-01,Juguetes didácticos,Distribuciones Antioqueñas,265,Planta Medellín,140480
+2026-09-01,Juguetes didácticos,Grupo Andino Retail,323,Planta Bogotá,142480
+2026-09-01,Juguetes didácticos,Mayoristas del Eje Cafetero,200,Planta Medellín,146620
+2026-09-01,Paneles solares portátiles,Almacenes del Pacífico,135,Planta Cali,351030
+2026-09-01,Paneles solares portátiles,Comercial Caribe S.A.S.,165,Planta Bucaramanga,350040
+2026-09-01,Paneles solares portátiles,Distribuciones Antioqueñas,205,Planta Bogotá,337860
+2026-09-01,Paneles solares portátiles,Grupo Andino Retail,258,Planta Bogotá,340650
+2026-09-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,129,Planta Cali,348590
+2026-09-01,Ventiladores de torre,Almacenes del Pacífico,127,Planta Cali,219400
+2026-09-01,Ventiladores de torre,Comercial Caribe S.A.S.,182,Planta Bucaramanga,216320
+2026-09-01,Ventiladores de torre,Distribuciones Antioqueñas,139,Planta Bogotá,210260
+2026-09-01,Ventiladores de torre,Grupo Andino Retail,141,Planta Bogotá,212250
+2026-09-01,Ventiladores de torre,Mayoristas del Eje Cafetero,88,Planta Cali,214900
+2026-10-01,Baterías de litio recargables,Almacenes del Pacífico,155,Planta Cali,307070
+2026-10-01,Baterías de litio recargables,Comercial Caribe S.A.S.,184,Planta Medellín,300520
+2026-10-01,Baterías de litio recargables,Distribuciones Antioqueñas,157,Planta Medellín,296620
+2026-10-01,Baterías de litio recargables,Grupo Andino Retail,285,Planta Bogotá,298180
+2026-10-01,Baterías de litio recargables,Mayoristas del Eje Cafetero,233,Planta Cali,302800
+2026-10-01,Bolsas biodegradables,Almacenes del Pacífico,535,Planta Medellín,68850
+2026-10-01,Bolsas biodegradables,Comercial Caribe S.A.S.,336,Planta Bucaramanga,67580
+2026-10-01,Bolsas biodegradables,Distribuciones Antioqueñas,534,Planta Medellín,65140
+2026-10-01,Bolsas biodegradables,Grupo Andino Retail,830,Planta Bogotá,66520
+2026-10-01,Bolsas biodegradables,Mayoristas del Eje Cafetero,512,Planta Medellín,67530
+2026-10-01,Bombillos incandescentes,Almacenes del Pacífico,193,Planta Cali,78150
+2026-10-01,Bombillos incandescentes,Comercial Caribe S.A.S.,224,Planta Medellín,76950
+2026-10-01,Bombillos incandescentes,Distribuciones Antioqueñas,314,Planta Medellín,75310
+2026-10-01,Bombillos incandescentes,Grupo Andino Retail,262,Planta Bogotá,76680
+2026-10-01,Bombillos incandescentes,Mayoristas del Eje Cafetero,92,Planta Cali,77260
+2026-10-01,Chocolatería de regalo,Almacenes del Pacífico,419,Planta Cali,104120
+2026-10-01,Chocolatería de regalo,Comercial Caribe S.A.S.,373,Planta Bucaramanga,104120
+2026-10-01,Chocolatería de regalo,Distribuciones Antioqueñas,328,Planta Medellín,99600
+2026-10-01,Chocolatería de regalo,Grupo Andino Retail,333,Planta Bogotá,101330
+2026-10-01,Chocolatería de regalo,Mayoristas del Eje Cafetero,159,Planta Cali,103820
+2026-10-01,Cuadernos escolares,Almacenes del Pacífico,291,Planta Cali,77900
+2026-10-01,Cuadernos escolares,Comercial Caribe S.A.S.,388,Planta Medellín,77020
+2026-10-01,Cuadernos escolares,Distribuciones Antioqueñas,210,Planta Medellín,75040
+2026-10-01,Cuadernos escolares,Grupo Andino Retail,560,Planta Bogotá,75550
+2026-10-01,Cuadernos escolares,Mayoristas del Eje Cafetero,204,Planta Cali,77600
+2026-10-01,Envases plásticos tradicionales,Almacenes del Pacífico,598,Planta Cali,57420
+2026-10-01,Envases plásticos tradicionales,Comercial Caribe S.A.S.,404,Planta Bucaramanga,57220
+2026-10-01,Envases plásticos tradicionales,Distribuciones Antioqueñas,337,Planta Medellín,54960
+2026-10-01,Envases plásticos tradicionales,Grupo Andino Retail,790,Planta Bogotá,55180
+2026-10-01,Envases plásticos tradicionales,Mayoristas del Eje Cafetero,128,Planta Cali,57360
+2026-10-01,Impermeables industriales,Almacenes del Pacífico,304,Planta Medellín,154640
+2026-10-01,Impermeables industriales,Comercial Caribe S.A.S.,351,Planta Bucaramanga,153050
+2026-10-01,Impermeables industriales,Distribuciones Antioqueñas,436,Planta Medellín,149770
+2026-10-01,Impermeables industriales,Grupo Andino Retail,496,Planta Bogotá,149870
+2026-10-01,Impermeables industriales,Mayoristas del Eje Cafetero,205,Planta Medellín,153450
+2026-10-01,Juguetes didácticos,Almacenes del Pacífico,180,Planta Medellín,148440
+2026-10-01,Juguetes didácticos,Comercial Caribe S.A.S.,268,Planta Bucaramanga,146870
+2026-10-01,Juguetes didácticos,Distribuciones Antioqueñas,319,Planta Medellín,141920
+2026-10-01,Juguetes didácticos,Grupo Andino Retail,536,Planta Bogotá,143550
+2026-10-01,Juguetes didácticos,Mayoristas del Eje Cafetero,250,Planta Medellín,144970
+2026-10-01,Paneles solares portátiles,Almacenes del Pacífico,135,Planta Cali,355320
+2026-10-01,Paneles solares portátiles,Comercial Caribe S.A.S.,139,Planta Bucaramanga,349450
+2026-10-01,Paneles solares portátiles,Distribuciones Antioqueñas,242,Planta Bogotá,337470
+2026-10-01,Paneles solares portátiles,Grupo Andino Retail,279,Planta Bogotá,343590
+2026-10-01,Paneles solares portátiles,Mayoristas del Eje Cafetero,125,Planta Cali,347560
+2026-10-01,Ventiladores de torre,Almacenes del Pacífico,134,Planta Cali,220230
+2026-10-01,Ventiladores de torre,Comercial Caribe S.A.S.,192,Planta Bucaramanga,218440
+2026-10-01,Ventiladores de torre,Distribuciones Antioqueñas,136,Planta Bogotá,212780
+2026-10-01,Ventiladores de torre,Grupo Andino Retail,139,Planta Bogotá,212520
+2026-10-01,Ventiladores de torre,Mayoristas del Eje Cafetero,77,Planta Cali,219190
